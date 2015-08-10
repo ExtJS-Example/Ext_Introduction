@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="19452"
+   name=""
+   committed-date="2013-11-12T00:53:49.926592Z"
+   url="http://192.168.2.222/svn/magus/UI/2013/product/GUI/GUI/WebContent/ext3/ux/calendar/src/dd"
+   last-author="lianxinzhong"
+   kind="dir"
+   uuid="4a24c695-217c-4848-abf9-7600eaa6d8bd"
+   repos="http://192.168.2.222/svn/magus"
+   revision="19671"/>
+<entry
+   committed-rev="19452"
+   name="StatusProxy.js"
+   text-time="2013-11-12T03:49:25.560186Z"
+   committed-date="2013-11-12T00:53:49.926592Z"
+   checksum="5ffa8c410fcb734f10a630f068efdbcd"
+   last-author="lianxinzhong"
+   kind="file"
+   prop-time="2013-11-12T03:49:25.522183Z"/>
+<entry
+   committed-rev="19452"
+   name="DayViewDD.js"
+   text-time="2013-11-12T03:49:25.534184Z"
+   committed-date="2013-11-12T00:53:49.926592Z"
+   checksum="909205575a01475ede83a1bdd8323bcf"
+   last-author="lianxinzhong"
+   kind="file"
+   prop-time="2013-11-12T03:49:24.497125Z"/>
+<entry
+   committed-rev="19452"
+   name="CalendarDD.js"
+   text-time="2013-11-12T03:49:25.544185Z"
+   committed-date="2013-11-12T00:53:49.926592Z"
+   checksum="d964de7439b5b6d504c6a9732fa32c7c"
+   last-author="lianxinzhong"
+   kind="file"
+   prop-time="2013-11-12T03:49:25.498182Z"/>
+<entry
+   committed-rev="19452"
+   name="CalendarScrollManager.js"
+   text-time="2013-11-12T03:49:25.552185Z"
+   committed-date="2013-11-12T00:53:49.926592Z"
+   checksum="a80fcf68902f2d83fa64db4114680b70"
+   last-author="lianxinzhong"
+   kind="file"
+   prop-time="2013-11-12T03:49:25.512183Z"/>
+</wc-entries>

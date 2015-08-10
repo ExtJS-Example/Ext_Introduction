@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="19452"
+   name=""
+   committed-date="2013-11-12T00:53:49.926592Z"
+   url="http://192.168.2.222/svn/magus/UI/2013/product/GUI/GUI/WebContent/ext3/ux/gridfilters/menu"
+   last-author="lianxinzhong"
+   kind="dir"
+   uuid="4a24c695-217c-4848-abf9-7600eaa6d8bd"
+   repos="http://192.168.2.222/svn/magus"
+   revision="19671"/>
+<entry
+   committed-rev="19452"
+   name="ListMenu.js"
+   text-time="2013-11-12T03:49:26.883261Z"
+   committed-date="2013-11-12T00:53:49.926592Z"
+   checksum="e1b4897409ccb500d50c5da35cf1f188"
+   last-author="lianxinzhong"
+   kind="file"
+   prop-time="2013-11-12T03:49:26.864260Z"/>
+<entry
+   committed-rev="19452"
+   name="RangeMenu.js"
+   text-time="2013-11-12T03:49:26.893262Z"
+   committed-date="2013-11-12T00:53:49.926592Z"
+   checksum="1b686d57cb1d8679fe548789995f8180"
+   last-author="lianxinzhong"
+   kind="file"
+   prop-time="2013-11-12T03:49:26.871261Z"/>
+</wc-entries>

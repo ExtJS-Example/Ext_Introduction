@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="19452"
+   name=""
+   committed-date="2013-11-12T00:53:49.926592Z"
+   url="http://192.168.2.222/svn/magus/UI/2013/product/GUI/GUI/WebContent/ext3/ux/css"
+   last-author="lianxinzhong"
+   kind="dir"
+   uuid="4a24c695-217c-4848-abf9-7600eaa6d8bd"
+   repos="http://192.168.2.222/svn/magus"
+   revision="19671"/>
+<entry
+   committed-rev="19452"
+   name="GroupSummary.css"
+   text-time="2013-11-12T03:49:23.370060Z"
+   committed-date="2013-11-12T00:53:49.926592Z"
+   checksum="8e7d0409d87e1a70c0ae5ccb2d9fac9d"
+   last-author="lianxinzhong"
+   kind="file"
+   prop-time="2013-11-12T03:49:23.296056Z"/>
+<entry
+   committed-rev="19452"
+   name="MultiSelect.css"
+   text-time="2013-11-12T03:49:23.376061Z"
+   committed-date="2013-11-12T00:53:49.926592Z"
+   checksum="c78c5bb8ed01ad800b992110ca5555b7"
+   last-author="lianxinzhong"
+   kind="file"
+   prop-time="2013-11-12T03:49:23.299056Z"/>
+<entry
+   committed-rev="19452"
+   name="CenterLayout.css"
+   text-time="2013-11-12T03:49:23.306057Z"
+   committed-date="2013-11-12T00:53:49.926592Z"
+   checksum="15873424bfa134d8a8183148e7bb2a58"
+   last-author="lianxinzhong"
+   kind="file"
+   prop-time="2013-11-12T03:49:23.255054Z"/>
+<entry
+   committed-rev="19452"
+   name="RowEditor.css"
+   text-time="2013-11-12T03:49:23.312057Z"
+   committed-date="2013-11-12T00:53:49.926592Z"
+   checksum="1237943e1a9d34adea4ab14410ffdea8"
+   last-author="lianxinzhong"
+   kind="file"
+   prop-time="2013-11-12T03:49:23.260054Z"/>
+<entry
+   committed-rev="19452"
+   name="Spinner.css"
+   text-time="2013-11-12T03:49:23.319057Z"
+   committed-date="2013-11-12T00:53:49.926592Z"
+   checksum="105ad816f02c80514e6df826814799bb"
+   last-author="lianxinzhong"
+   kind="file"
+   prop-time="2013-11-12T03:49:23.264054Z"/>
+<entry
+   committed-rev="19452"
+   name="ColumnNodeUI.css"
+   text-time="2013-11-12T03:49:23.325058Z"
+   committed-date="2013-11-12T00:53:49.926592Z"
+   checksum="2ed7bf7f3d301db9972fbbbcc877cb1a"
+   last-author="lianxinzhong"
+   kind="file"
+   prop-time="2013-11-12T03:49:23.269055Z"/>
+<entry
+   committed-rev="19452"
+   name="Portal.css"
+   text-time="2013-11-12T03:49:23.332058Z"
+   committed-date="2013-11-12T00:53:49.926592Z"
+   checksum="4a6af230309bc077b5d90952218919f0"
+   last-author="lianxinzhong"
+   kind="file"
+   prop-time="2013-11-12T03:49:23.272055Z"/>
+<entry
+   committed-rev="19452"
+   name="ux-all.css"
+   text-time="2013-11-12T03:49:23.339059Z"
+   committed-date="2013-11-12T00:53:49.926592Z"
+   checksum="513e12c2138a20d883d712aa9dfe2096"
+   last-author="lianxinzhong"
+   kind="file"
+   prop-time="2013-11-12T03:49:23.277055Z"/>
+<entry
+   committed-rev="19452"
+   name="ColumnHeaderGroup.css"
+   text-time="2013-11-12T03:49:23.345059Z"
+   committed-date="2013-11-12T00:53:49.926592Z"
+   checksum="912e4eb991395a75c076a2e402e8717e"
+   last-author="lianxinzhong"
+   kind="file"
+   prop-time="2013-11-12T03:49:23.281055Z"/>
+<entry
+   committed-rev="19452"
+   name="GroupTab.css"
+   text-time="2013-11-12T03:49:23.351059Z"
+   committed-date="2013-11-12T00:53:49.926592Z"
+   checksum="f69355cb1a2c6a22e13ba14f4109e965"
+   last-author="lianxinzhong"
+   kind="file"
+   prop-time="2013-11-12T03:49:23.285055Z"/>
+<entry
+   committed-rev="19452"
+   name="PanelResizer.css"
+   text-time="2013-11-12T03:49:23.358060Z"
+   committed-date="2013-11-12T00:53:49.926592Z"
+   checksum="a06e1ccd4dcb7b2b0dd6d39dcff69c74"
+   last-author="lianxinzhong"
+   kind="file"
+   prop-time="2013-11-12T03:49:23.289056Z"/>
+<entry
+   committed-rev="19452"
+   name="LockingGridView.css"
+   text-time="2013-11-12T03:49:23.364060Z"
+   committed-date="2013-11-12T00:53:49.926592Z"
+   checksum="5de00cc820a7d741d8e248879bf26fad"
+   last-author="lianxinzhong"
+   kind="file"
+   prop-time="2013-11-12T03:49:23.292056Z"/>
+</wc-entries>

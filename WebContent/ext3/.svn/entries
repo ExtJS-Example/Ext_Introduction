@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="19452"
+   name=""
+   committed-date="2013-11-12T00:53:49.926592Z"
+   url="http://192.168.2.222/svn/magus/UI/2013/product/GUI/GUI/WebContent/ext3"
+   last-author="lianxinzhong"
+   kind="dir"
+   uuid="4a24c695-217c-4848-abf9-7600eaa6d8bd"
+   repos="http://192.168.2.222/svn/magus"
+   revision="19671"/>
+<entry
+   committed-rev="19452"
+   name="ext-all.js"
+   text-time="2013-11-12T03:49:37.595874Z"
+   committed-date="2013-11-12T00:53:49.926592Z"
+   checksum="d639c820b0c677dca050465cd5d0e651"
+   last-author="lianxinzhong"
+   kind="file"
+   prop-time="2013-11-12T03:49:30.164449Z"/>
+<entry
+   committed-rev="19452"
+   name="ext-base.js"
+   text-time="2013-11-12T03:49:37.603874Z"
+   committed-date="2013-11-12T00:53:49.926592Z"
+   checksum="300e19b92568cc7d6d37b7fefc9703ea"
+   last-author="lianxinzhong"
+   kind="file"
+   prop-time="2013-11-12T03:49:30.281456Z"/>
+<entry
+   committed-rev="19452"
+   name="ext-jquery-adapter.js"
+   text-time="2013-11-12T03:49:37.610875Z"
+   committed-date="2013-11-12T00:53:49.926592Z"
+   checksum="1e84f104d83e9815f1f902018c1a3182"
+   last-author="lianxinzhong"
+   kind="file"
+   prop-time="2013-11-12T03:49:31.644534Z"/>
+<entry
+   committed-rev="19452"
+   name="ext-lang-zh_CN.js"
+   text-time="2013-11-12T03:49:37.617875Z"
+   committed-date="2013-11-12T00:53:49.926592Z"
+   checksum="1312dd36d0b756dae800c85484ce65ba"
+   last-author="lianxinzhong"
+   kind="file"
+   prop-time="2013-11-12T03:49:31.777541Z"/>
+<entry
+   name="resources"
+   kind="dir"/>
+<entry
+   name="theboboy"
+   kind="dir"/>
+<entry
+   name="ux"
+   kind="dir"/>
+</wc-entries>

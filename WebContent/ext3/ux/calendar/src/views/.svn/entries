@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="19452"
+   name=""
+   committed-date="2013-11-12T00:53:49.926592Z"
+   url="http://192.168.2.222/svn/magus/UI/2013/product/GUI/GUI/WebContent/ext3/ux/calendar/src/views"
+   last-author="lianxinzhong"
+   kind="dir"
+   uuid="4a24c695-217c-4848-abf9-7600eaa6d8bd"
+   repos="http://192.168.2.222/svn/magus"
+   revision="19671"/>
+<entry
+   committed-rev="19452"
+   name="CalendarView.js"
+   text-time="2013-11-12T03:49:24.313114Z"
+   committed-date="2013-11-12T00:53:49.926592Z"
+   checksum="401fc4da78bf65adddfc4d9d5a1468da"
+   last-author="lianxinzhong"
+   kind="file"
+   prop-time="2013-11-12T03:49:24.262111Z"/>
+<entry
+   committed-rev="19452"
+   name="DayBodyView.js"
+   text-time="2013-11-12T03:49:24.319115Z"
+   committed-date="2013-11-12T00:53:49.926592Z"
+   checksum="c8c9ec4a8dec89b17b7ec1b733aa1a81"
+   last-author="lianxinzhong"
+   kind="file"
+   prop-time="2013-11-12T03:49:24.271112Z"/>
+<entry
+   committed-rev="19452"
+   name="WeekView.js"
+   text-time="2013-11-12T03:49:24.325115Z"
+   committed-date="2013-11-12T00:53:49.926592Z"
+   checksum="a8513e9ce75c738c3a193cd907ffa647"
+   last-author="lianxinzhong"
+   kind="file"
+   prop-time="2013-11-12T03:49:24.277112Z"/>
+<entry
+   committed-rev="19452"
+   name="DayView.js"
+   text-time="2013-11-12T03:49:24.285113Z"
+   committed-date="2013-11-12T00:53:49.926592Z"
+   checksum="7d36d303c449efb0c646c8003498aac5"
+   last-author="lianxinzhong"
+   kind="file"
+   prop-time="2013-11-12T03:49:23.615074Z"/>
+<entry
+   committed-rev="19452"
+   name="MonthView.js"
+   text-time="2013-11-12T03:49:24.291113Z"
+   committed-date="2013-11-12T00:53:49.926592Z"
+   checksum="6fe68fafb299246a34db2a05b80b55be"
+   last-author="lianxinzhong"
+   kind="file"
+   prop-time="2013-11-12T03:49:24.221109Z"/>
+<entry
+   committed-rev="19452"
+   name="DayHeaderView.js"
+   text-time="2013-11-12T03:49:24.298113Z"
+   committed-date="2013-11-12T00:53:49.926592Z"
+   checksum="b8b0dab3748939d41417feb0720bec86"
+   last-author="lianxinzhong"
+   kind="file"
+   prop-time="2013-11-12T03:49:24.236110Z"/>
+<entry
+   committed-rev="19452"
+   name="MonthDayDetailView.js"
+   text-time="2013-11-12T03:49:24.306114Z"
+   committed-date="2013-11-12T00:53:49.926592Z"
+   checksum="9d728ca001a9c900f0d33c1167bdbbc5"
+   last-author="lianxinzhong"
+   kind="file"
+   prop-time="2013-11-12T03:49:24.251111Z"/>
+</wc-entries>

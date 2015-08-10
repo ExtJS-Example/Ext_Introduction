@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="19452"
+   name=""
+   committed-date="2013-11-12T00:53:49.926592Z"
+   url="http://192.168.2.222/svn/magus/UI/2013/product/GUI/GUI/WebContent/ext3/resources/images/default"
+   last-author="lianxinzhong"
+   kind="dir"
+   uuid="4a24c695-217c-4848-abf9-7600eaa6d8bd"
+   repos="http://192.168.2.222/svn/magus"
+   revision="19671"/>
+<entry
+   name="slider"
+   kind="dir"/>
+<entry
+   committed-rev="19452"
+   name="shadow-lr.png"
+   text-time="2013-11-12T03:49:37.475867Z"
+   committed-date="2013-11-12T00:53:49.926592Z"
+   checksum="986270d8ab4330fa7499dc33ed135598"
+   last-author="lianxinzhong"
+   kind="file"
+   prop-time="2013-11-12T03:49:33.916664Z"/>
+<entry
+   name="grid"
+   kind="dir"/>
+<entry
+   name="editor"
+   kind="dir"/>
+<entry
+   name="dd"
+   kind="dir"/>
+<entry
+   committed-rev="19452"
+   name="gradient-bg.gif"
+   text-time="2013-11-12T03:49:37.481868Z"
+   committed-date="2013-11-12T00:53:49.926592Z"
+   checksum="e117fca9d088e4cd5bbbcec7b99a8408"
+   last-author="lianxinzhong"
+   kind="file"
+   prop-time="2013-11-12T03:49:34.687708Z"/>
+<entry
+   name="box"
+   kind="dir"/>
+<entry
+   committed-rev="19452"
+   name="shadow-c.png"
+   text-time="2013-11-12T03:49:37.488868Z"
+   committed-date="2013-11-12T00:53:49.926592Z"
+   checksum="7ab6163237099f2529452b88953a4049"
+   last-author="lianxinzhong"
+   kind="file"
+   prop-time="2013-11-12T03:49:34.791714Z"/>
+<entry
+   name="tabs"
+   kind="dir"/>
+<entry
+   name="sizer"
+   kind="dir"/>
+<entry
+   name="panel"
+   kind="dir"/>
+<entry
+   name="tree"
+   kind="dir"/>
+<entry
+   name="toolbar"
+   kind="dir"/>
+<entry
+   name="form"
+   kind="dir"/>
+<entry
+   name="progress"
+   kind="dir"/>
+<entry
+   name="menu"
+   kind="dir"/>
+<entry
+   name="shared"
+   kind="dir"/>
+<entry
+   committed-rev="19452"
+   name="s.gif"
+   text-time="2013-11-12T03:49:37.494868Z"
+   committed-date="2013-11-12T00:53:49.926592Z"
+   checksum="fc94fb0c3ed8a8f909dbc7630a0987ff"
+   last-author="lianxinzhong"
+   kind="file"
+   prop-time="2013-11-12T03:49:36.180793Z"/>
+<entry
+   name="window"
+   kind="dir"/>
+<entry
+   committed-rev="19452"
+   name="shadow.png"
+   text-time="2013-11-12T03:49:37.500869Z"
+   committed-date="2013-11-12T00:53:49.926592Z"
+   checksum="860bf4f690d2ea2aba7b11500925da62"
+   last-author="lianxinzhong"
+   kind="file"
+   prop-time="2013-11-12T03:49:37.006840Z"/>
+<entry
+   name="button"
+   kind="dir"/>
+<entry
+   name="layout"
+   kind="dir"/>
+<entry
+   name="qtip"
+   kind="dir"/>
+</wc-entries>

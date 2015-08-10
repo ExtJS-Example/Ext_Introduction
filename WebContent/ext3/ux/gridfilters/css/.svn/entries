@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="19452"
+   name=""
+   committed-date="2013-11-12T00:53:49.926592Z"
+   url="http://192.168.2.222/svn/magus/UI/2013/product/GUI/GUI/WebContent/ext3/ux/gridfilters/css"
+   last-author="lianxinzhong"
+   kind="dir"
+   uuid="4a24c695-217c-4848-abf9-7600eaa6d8bd"
+   repos="http://192.168.2.222/svn/magus"
+   revision="19671"/>
+<entry
+   committed-rev="19452"
+   name="GridFilters.css"
+   text-time="2013-11-12T03:49:26.384233Z"
+   committed-date="2013-11-12T00:53:49.926592Z"
+   checksum="45e5db3d85cc3c601dd205416f4bf3f5"
+   last-author="lianxinzhong"
+   kind="file"
+   prop-time="2013-11-12T03:49:26.371232Z"/>
+<entry
+   committed-rev="19452"
+   name="RangeMenu.css"
+   text-time="2013-11-12T03:49:26.378232Z"
+   committed-date="2013-11-12T00:53:49.926592Z"
+   checksum="ea7f9fcbe439101586a3eb02c4dbe2b6"
+   last-author="lianxinzhong"
+   kind="file"
+   prop-time="2013-11-12T03:49:26.367232Z"/>
+</wc-entries>

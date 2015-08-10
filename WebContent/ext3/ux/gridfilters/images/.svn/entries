@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="19452"
+   name=""
+   committed-date="2013-11-12T00:53:49.926592Z"
+   url="http://192.168.2.222/svn/magus/UI/2013/product/GUI/GUI/WebContent/ext3/ux/gridfilters/images"
+   last-author="lianxinzhong"
+   kind="dir"
+   uuid="4a24c695-217c-4848-abf9-7600eaa6d8bd"
+   repos="http://192.168.2.222/svn/magus"
+   revision="19671"/>
+<entry
+   committed-rev="19452"
+   name="sort_filtered_asc.gif"
+   text-time="2013-11-12T03:49:27.037270Z"
+   committed-date="2013-11-12T00:53:49.926592Z"
+   checksum="9e7aa77783ea8aa38075d1385b3fa059"
+   last-author="lianxinzhong"
+   kind="file"
+   prop-time="2013-11-12T03:49:27.007268Z"/>
+<entry
+   committed-rev="19452"
+   name="find.png"
+   text-time="2013-11-12T03:49:27.044271Z"
+   committed-date="2013-11-12T00:53:49.926592Z"
+   checksum="9f1ca0cb69861e19aacb41d097adc081"
+   last-author="lianxinzhong"
+   kind="file"
+   prop-time="2013-11-12T03:49:27.012269Z"/>
+<entry
+   committed-rev="19452"
+   name="less_than.png"
+   text-time="2013-11-12T03:49:27.050271Z"
+   committed-date="2013-11-12T00:53:49.926592Z"
+   checksum="2fb7416c89137c90bd94798dd598da05"
+   last-author="lianxinzhong"
+   kind="file"
+   prop-time="2013-11-12T03:49:27.016269Z"/>
+<entry
+   committed-rev="19452"
+   name="greater_than.png"
+   text-time="2013-11-12T03:49:27.056271Z"
+   committed-date="2013-11-12T00:53:49.926592Z"
+   checksum="746cb720e5e18bd8c52c1dbfeaaa4cef"
+   last-author="lianxinzhong"
+   kind="file"
+   prop-time="2013-11-12T03:49:27.020269Z"/>
+<entry
+   committed-rev="19452"
+   name="sort_filtered_desc.gif"
+   text-time="2013-11-12T03:49:27.062272Z"
+   committed-date="2013-11-12T00:53:49.926592Z"
+   checksum="6d594504e046c5f2bdad39263dcd3656"
+   last-author="lianxinzhong"
+   kind="file"
+   prop-time="2013-11-12T03:49:27.024269Z"/>
+<entry
+   committed-rev="19452"
+   name="equals.png"
+   text-time="2013-11-12T03:49:27.030270Z"
+   committed-date="2013-11-12T00:53:49.926592Z"
+   checksum="87b7eee501232f65cc27db5c5dd4694a"
+   last-author="lianxinzhong"
+   kind="file"
+   prop-time="2013-11-12T03:49:27.002268Z"/>
+</wc-entries>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="19452"
+   name=""
+   committed-date="2013-11-12T00:53:49.926592Z"
+   url="http://192.168.2.222/svn/magus/UI/2013/product/GUI/GUI/WebContent/ext3/ux/gridfilters"
+   last-author="lianxinzhong"
+   kind="dir"
+   uuid="4a24c695-217c-4848-abf9-7600eaa6d8bd"
+   repos="http://192.168.2.222/svn/magus"
+   revision="19671"/>
+<entry
+   name="menu"
+   kind="dir"/>
+<entry
+   name="filter"
+   kind="dir"/>
+<entry
+   name="images"
+   kind="dir"/>
+<entry
+   name="css"
+   kind="dir"/>
+<entry
+   committed-rev="19452"
+   name="GridFilters.js"
+   text-time="2013-11-12T03:49:27.078272Z"
+   committed-date="2013-11-12T00:53:49.926592Z"
+   checksum="901fdc73b5094523897729839bff2b87"
+   last-author="lianxinzhong"
+   kind="file"
+   prop-time="2013-11-12T03:49:26.814257Z"/>
+</wc-entries>

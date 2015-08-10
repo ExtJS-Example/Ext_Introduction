@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="19452"
+   name=""
+   committed-date="2013-11-12T00:53:49.926592Z"
+   url="http://192.168.2.222/svn/magus/UI/2013/product/GUI/GUI/WebContent/ext3/ux/statusbar"
+   last-author="lianxinzhong"
+   kind="dir"
+   uuid="4a24c695-217c-4848-abf9-7600eaa6d8bd"
+   repos="http://192.168.2.222/svn/magus"
+   revision="19671"/>
+<entry
+   committed-rev="19452"
+   name="StatusBar.js"
+   text-time="2013-11-12T03:49:28.281341Z"
+   committed-date="2013-11-12T00:53:49.926592Z"
+   checksum="e4e4b704edf2d5c668ee4aa16900a8a9"
+   last-author="lianxinzhong"
+   kind="file"
+   prop-time="2013-11-12T03:49:28.167335Z"/>
+<entry
+   name="images"
+   kind="dir"/>
+<entry
+   name="css"
+   kind="dir"/>
+<entry
+   committed-rev="19452"
+   name="ValidationStatus.js"
+   text-time="2013-11-12T03:49:28.275341Z"
+   committed-date="2013-11-12T00:53:49.926592Z"
+   checksum="4e2a94fc5b5965202eb2fe01e93e6a11"
+   last-author="lianxinzhong"
+   kind="file"
+   prop-time="2013-11-12T03:49:28.162334Z"/>
+</wc-entries>

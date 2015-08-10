@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="19452"
+   name=""
+   committed-date="2013-11-12T00:53:49.926592Z"
+   url="http://192.168.2.222/svn/magus/UI/2013/product/GUI/GUI/WebContent/ext3/ux/calendar/src/templates"
+   last-author="lianxinzhong"
+   kind="dir"
+   uuid="4a24c695-217c-4848-abf9-7600eaa6d8bd"
+   repos="http://192.168.2.222/svn/magus"
+   revision="19671"/>
+<entry
+   committed-rev="19452"
+   name="DayViewTemplate.js"
+   text-time="2013-11-12T03:49:24.394119Z"
+   committed-date="2013-11-12T00:53:49.926592Z"
+   checksum="ed3114f80fdbe16a9a25a2c3a689e175"
+   last-author="lianxinzhong"
+   kind="file"
+   prop-time="2013-11-12T03:49:24.360117Z"/>
+<entry
+   committed-rev="19452"
+   name="DayBodyTemplate.js"
+   text-time="2013-11-12T03:49:24.401119Z"
+   committed-date="2013-11-12T00:53:49.926592Z"
+   checksum="cf8d5d98564c8121ba1007a7394508df"
+   last-author="lianxinzhong"
+   kind="file"
+   prop-time="2013-11-12T03:49:24.364117Z"/>
+<entry
+   committed-rev="19452"
+   name="MonthViewTemplate.js"
+   text-time="2013-11-12T03:49:24.371118Z"
+   committed-date="2013-11-12T00:53:49.926592Z"
+   checksum="d13c9e9fc680cc7ee91460625f941f3d"
+   last-author="lianxinzhong"
+   kind="file"
+   prop-time="2013-11-12T03:49:24.348116Z"/>
+<entry
+   committed-rev="19452"
+   name="BoxLayoutTemplate.js"
+   text-time="2013-11-12T03:49:24.379118Z"
+   committed-date="2013-11-12T00:53:49.926592Z"
+   checksum="9126f2176c4c54958bcd0ac36c7fe509"
+   last-author="lianxinzhong"
+   kind="file"
+   prop-time="2013-11-12T03:49:24.352117Z"/>
+<entry
+   committed-rev="19452"
+   name="DayHeaderTemplate.js"
+   text-time="2013-11-12T03:49:24.385118Z"
+   committed-date="2013-11-12T00:53:49.926592Z"
+   checksum="aa0d55a2d18d5ee0d17b9c3b00969637"
+   last-author="lianxinzhong"
+   kind="file"
+   prop-time="2013-11-12T03:49:24.356117Z"/>
+</wc-entries>

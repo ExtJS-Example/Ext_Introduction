@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="19452"
+   name=""
+   committed-date="2013-11-12T00:53:49.926592Z"
+   url="http://192.168.2.222/svn/magus/UI/2013/product/GUI/GUI/WebContent/ext3/ux/calendar/src"
+   last-author="lianxinzhong"
+   kind="dir"
+   uuid="4a24c695-217c-4848-abf9-7600eaa6d8bd"
+   repos="http://192.168.2.222/svn/magus"
+   revision="19671"/>
+<entry
+   committed-rev="19452"
+   name="WeekEventRenderer.js"
+   text-time="2013-11-12T03:49:25.586187Z"
+   committed-date="2013-11-12T00:53:49.926592Z"
+   checksum="a1b2d21d30c4cf5f706bae1df66ff084"
+   last-author="lianxinzhong"
+   kind="file"
+   prop-time="2013-11-12T03:49:24.415120Z"/>
+<entry
+   committed-rev="19452"
+   name="Ext.calendar.js"
+   text-time="2013-11-12T03:49:25.594188Z"
+   committed-date="2013-11-12T00:53:49.926592Z"
+   checksum="fc32c6bf620c11e04fa4b6e44bdebaa4"
+   last-author="lianxinzhong"
+   kind="file"
+   prop-time="2013-11-12T03:49:24.419120Z"/>
+<entry
+   committed-rev="19452"
+   name="CalendarPanel.js"
+   text-time="2013-11-12T03:49:25.601188Z"
+   committed-date="2013-11-12T00:53:49.926592Z"
+   checksum="38c8e7d05ee4f51512bdcbdebf8ca9b1"
+   last-author="lianxinzhong"
+   kind="file"
+   prop-time="2013-11-12T03:49:24.425121Z"/>
+<entry
+   name="widgets"
+   kind="dir"/>
+<entry
+   committed-rev="19452"
+   name="EventEditForm.js"
+   text-time="2013-11-12T03:49:25.607188Z"
+   committed-date="2013-11-12T00:53:49.926592Z"
+   checksum="5cf6b92377deb34bb6870dc25593677d"
+   last-author="lianxinzhong"
+   kind="file"
+   prop-time="2013-11-12T03:49:24.429121Z"/>
+<entry
+   name="dd"
+   kind="dir"/>
+<entry
+   committed-rev="19452"
+   name="EventEditWindow.js"
+   text-time="2013-11-12T03:49:25.614189Z"
+   committed-date="2013-11-12T00:53:49.926592Z"
+   checksum="b43c1f7a921d8013867e1600d4fa49ae"
+   last-author="lianxinzhong"
+   kind="file"
+   prop-time="2013-11-12T03:49:25.572186Z"/>
+<entry
+   committed-rev="19452"
+   name="EventRecord.js"
+   text-time="2013-11-12T03:49:25.580187Z"
+   committed-date="2013-11-12T00:53:49.926592Z"
+   checksum="1194ddebd6bad7a3e85702130e7bd130"
+   last-author="lianxinzhong"
+   kind="file"
+   prop-time="2013-11-12T03:49:23.600074Z"/>
+<entry
+   name="views"
+   kind="dir"/>
+<entry
+   name="templates"
+   kind="dir"/>
+</wc-entries>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="19452"
+   name=""
+   committed-date="2013-11-12T00:53:49.926592Z"
+   url="http://192.168.2.222/svn/magus/UI/2013/product/GUI/GUI/WebContent/ext3/resources/images/default/shared"
+   last-author="lianxinzhong"
+   kind="dir"
+   uuid="4a24c695-217c-4848-abf9-7600eaa6d8bd"
+   repos="http://192.168.2.222/svn/magus"
+   revision="19671"/>
+<entry
+   committed-rev="19452"
+   name="left-btn.gif"
+   text-time="2013-11-12T03:49:36.240797Z"
+   committed-date="2013-11-12T00:53:49.926592Z"
+   checksum="6bf30c6cf0b5d70436c3e463b5532b35"
+   last-author="lianxinzhong"
+   kind="file"
+   prop-time="2013-11-12T03:49:36.197794Z"/>
+<entry
+   committed-rev="19452"
+   name="right-btn.gif"
+   text-time="2013-11-12T03:49:36.246797Z"
+   committed-date="2013-11-12T00:53:49.926592Z"
+   checksum="e7ad3a7f4814791cecf1b90e77e9e139"
+   last-author="lianxinzhong"
+   kind="file"
+   prop-time="2013-11-12T03:49:36.201794Z"/>
+<entry
+   committed-rev="19452"
+   name="glass-bg.gif"
+   text-time="2013-11-12T03:49:36.254797Z"
+   committed-date="2013-11-12T00:53:49.926592Z"
+   checksum="bc2cd5c5ac9b3874d956c892d23f2119"
+   last-author="lianxinzhong"
+   kind="file"
+   prop-time="2013-11-12T03:49:36.205795Z"/>
+<entry
+   committed-rev="19452"
+   name="hd-sprite.gif"
+   text-time="2013-11-12T03:49:36.261798Z"
+   committed-date="2013-11-12T00:53:49.926592Z"
+   checksum="6a54ae98bef53397d52282201852c204"
+   last-author="lianxinzhong"
+   kind="file"
+   prop-time="2013-11-12T03:49:36.210795Z"/>
+<entry
+   committed-rev="19452"
+   name="blue-loading.gif"
+   text-time="2013-11-12T03:49:36.267798Z"
+   committed-date="2013-11-12T00:53:49.926592Z"
+   checksum="dc2fd7c0ed853c56b4ac65710af3bd0a"
+   last-author="lianxinzhong"
+   kind="file"
+   prop-time="2013-11-12T03:49:36.214795Z"/>
+<entry
+   committed-rev="19452"
+   name="large-loading.gif"
+   text-time="2013-11-12T03:49:36.273798Z"
+   committed-date="2013-11-12T00:53:49.926592Z"
+   checksum="d96f6517e00399c37a9765e045eaaf22"
+   last-author="lianxinzhong"
+   kind="file"
+   prop-time="2013-11-12T03:49:36.220795Z"/>
+<entry
+   committed-rev="19452"
+   name="warning.gif"
+   text-time="2013-11-12T03:49:36.279799Z"
+   committed-date="2013-11-12T00:53:49.926592Z"
+   checksum="448dc934a7f0dd6092b51f88a1e47b2d"
+   last-author="lianxinzhong"
+   kind="file"
+   prop-time="2013-11-12T03:49:36.224796Z"/>
+<entry
+   committed-rev="19452"
+   name="loading-balls.gif"
+   text-time="2013-11-12T03:49:36.285799Z"
+   committed-date="2013-11-12T00:53:49.926592Z"
+   checksum="ac062b94ed674aaa50a6c18df92acdf3"
+   last-author="lianxinzhong"
+   kind="file"
+   prop-time="2013-11-12T03:49:36.228796Z"/>
+<entry
+   committed-rev="19452"
+   name="calendar.gif"
+   text-time="2013-11-12T03:49:36.291799Z"
+   committed-date="2013-11-12T00:53:49.926592Z"
+   checksum="81296cff1f97f5365524f2b9dcf626da"
+   last-author="lianxinzhong"
+   kind="file"
+   prop-time="2013-11-12T03:49:36.233796Z"/>
+</wc-entries>

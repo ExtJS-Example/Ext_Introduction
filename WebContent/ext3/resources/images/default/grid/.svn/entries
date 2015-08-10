@@ -1,0 +1,518 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="19452"
+   name=""
+   committed-date="2013-11-12T00:53:49.926592Z"
+   url="http://192.168.2.222/svn/magus/UI/2013/product/GUI/GUI/WebContent/ext3/resources/images/default/grid"
+   last-author="lianxinzhong"
+   kind="dir"
+   uuid="4a24c695-217c-4848-abf9-7600eaa6d8bd"
+   repos="http://192.168.2.222/svn/magus"
+   revision="19671"/>
+<entry
+   committed-rev="19452"
+   name="loading.gif"
+   text-time="2013-11-12T03:49:34.161678Z"
+   committed-date="2013-11-12T00:53:49.926592Z"
+   checksum="00ef871b291bc03a497d608a5bd8ec99"
+   last-author="lianxinzhong"
+   kind="file"
+   prop-time="2013-11-12T03:49:33.932665Z"/>
+<entry
+   committed-rev="19452"
+   name="sort_asc.gif"
+   text-time="2013-11-12T03:49:34.167678Z"
+   committed-date="2013-11-12T00:53:49.926592Z"
+   checksum="2352874b5f636ca331fe9509a2f9bdd7"
+   last-author="lianxinzhong"
+   kind="file"
+   prop-time="2013-11-12T03:49:33.936665Z"/>
+<entry
+   committed-rev="19452"
+   name="drop-no.gif"
+   text-time="2013-11-12T03:49:34.174678Z"
+   committed-date="2013-11-12T00:53:49.926592Z"
+   checksum="b53ca86d60fbcc7a45c8917299218bfd"
+   last-author="lianxinzhong"
+   kind="file"
+   prop-time="2013-11-12T03:49:33.940665Z"/>
+<entry
+   committed-rev="19452"
+   name="grid-split.gif"
+   text-time="2013-11-12T03:49:34.181679Z"
+   committed-date="2013-11-12T00:53:49.926592Z"
+   checksum="3ef419d4b9421d8e94f673a6238dc4c0"
+   last-author="lianxinzhong"
+   kind="file"
+   prop-time="2013-11-12T03:49:33.944665Z"/>
+<entry
+   committed-rev="19452"
+   name="columns.gif"
+   text-time="2013-11-12T03:49:34.187679Z"
+   committed-date="2013-11-12T00:53:49.926592Z"
+   checksum="ef35242fa6514a81d17d5f700f561b7c"
+   last-author="lianxinzhong"
+   kind="file"
+   prop-time="2013-11-12T03:49:33.948665Z"/>
+<entry
+   committed-rev="19452"
+   name="hmenu-lock.png"
+   text-time="2013-11-12T03:49:34.193679Z"
+   committed-date="2013-11-12T00:53:49.926592Z"
+   checksum="2a3b0b441834f443c1086930939efdae"
+   last-author="lianxinzhong"
+   kind="file"
+   prop-time="2013-11-12T03:49:33.952666Z"/>
+<entry
+   committed-rev="19452"
+   name="grid3-hd-btn.gif"
+   text-time="2013-11-12T03:49:34.199680Z"
+   committed-date="2013-11-12T00:53:49.926592Z"
+   checksum="e3e77072c16a6b27556236961f29c552"
+   last-author="lianxinzhong"
+   kind="file"
+   prop-time="2013-11-12T03:49:33.956666Z"/>
+<entry
+   committed-rev="19452"
+   name="page-last-disabled.gif"
+   text-time="2013-11-12T03:49:34.205680Z"
+   committed-date="2013-11-12T00:53:49.926592Z"
+   checksum="1d123237ceeb5109a1b9274f0cf19d73"
+   last-author="lianxinzhong"
+   kind="file"
+   prop-time="2013-11-12T03:49:33.960666Z"/>
+<entry
+   committed-rev="19452"
+   name="arrow-right-white.gif"
+   text-time="2013-11-12T03:49:34.212681Z"
+   committed-date="2013-11-12T00:53:49.926592Z"
+   checksum="714eb00f8134dde3a65c83f3f71ad2c4"
+   last-author="lianxinzhong"
+   kind="file"
+   prop-time="2013-11-12T03:49:33.963666Z"/>
+<entry
+   committed-rev="19452"
+   name="col-move-bottom.gif"
+   text-time="2013-11-12T03:49:34.218681Z"
+   committed-date="2013-11-12T00:53:49.926592Z"
+   checksum="9c38bcb5cee1dc9b4ce64ad9ab1386f8"
+   last-author="lianxinzhong"
+   kind="file"
+   prop-time="2013-11-12T03:49:33.967667Z"/>
+<entry
+   committed-rev="19452"
+   name="hmenu-unlock.png"
+   text-time="2013-11-12T03:49:34.225681Z"
+   committed-date="2013-11-12T00:53:49.926592Z"
+   checksum="c1f61df70b98c5498ea81e7e7b9effbb"
+   last-author="lianxinzhong"
+   kind="file"
+   prop-time="2013-11-12T03:49:33.972667Z"/>
+<entry
+   committed-rev="19452"
+   name="sort_desc.gif"
+   text-time="2013-11-12T03:49:34.231682Z"
+   committed-date="2013-11-12T00:53:49.926592Z"
+   checksum="d104fcf119d40c51554ddb8b377142e5"
+   last-author="lianxinzhong"
+   kind="file"
+   prop-time="2013-11-12T03:49:33.977667Z"/>
+<entry
+   committed-rev="19452"
+   name="grid3-hrow.gif"
+   text-time="2013-11-12T03:49:34.237682Z"
+   committed-date="2013-11-12T00:53:49.926592Z"
+   checksum="3e4484ea8db10af1320808c8477346ea"
+   last-author="lianxinzhong"
+   kind="file"
+   prop-time="2013-11-12T03:49:33.981667Z"/>
+<entry
+   committed-rev="19452"
+   name="grid3-rowheader.gif"
+   text-time="2013-11-12T03:49:34.242682Z"
+   committed-date="2013-11-12T00:53:49.926592Z"
+   checksum="b4491705564909da7f9eaf749dbbfbb1"
+   last-author="lianxinzhong"
+   kind="file"
+   prop-time="2013-11-12T03:49:33.985668Z"/>
+<entry
+   committed-rev="19452"
+   name="mso-hd.gif"
+   text-time="2013-11-12T03:49:34.255683Z"
+   committed-date="2013-11-12T00:53:49.926592Z"
+   checksum="37fba9c02f0eefe57f655890eef1c4a1"
+   last-author="lianxinzhong"
+   kind="file"
+   prop-time="2013-11-12T03:49:33.992668Z"/>
+<entry
+   committed-rev="19452"
+   name="hd-pop.gif"
+   text-time="2013-11-12T03:49:34.249683Z"
+   committed-date="2013-11-12T00:53:49.926592Z"
+   checksum="e5f27a2f68cc2d13b11cf41c46d298dc"
+   last-author="lianxinzhong"
+   kind="file"
+   prop-time="2013-11-12T03:49:33.988668Z"/>
+<entry
+   committed-rev="19452"
+   name="hmenu-desc.gif"
+   text-time="2013-11-12T03:49:34.275684Z"
+   committed-date="2013-11-12T00:53:49.926592Z"
+   checksum="f0a987b34b003b25a7c82624d41f018a"
+   last-author="lianxinzhong"
+   kind="file"
+   prop-time="2013-11-12T03:49:34.006669Z"/>
+<entry
+   committed-rev="19452"
+   name="page-next.gif"
+   text-time="2013-11-12T03:49:34.268684Z"
+   committed-date="2013-11-12T00:53:49.926592Z"
+   checksum="f6f9d2209dfc99912ffc9848d97646db"
+   last-author="lianxinzhong"
+   kind="file"
+   prop-time="2013-11-12T03:49:34.001668Z"/>
+<entry
+   committed-rev="19452"
+   name="row-expand-sprite.gif"
+   text-time="2013-11-12T03:49:34.262683Z"
+   committed-date="2013-11-12T00:53:49.926592Z"
+   checksum="be81199d9d4fa69bef47a8f036a5a7d8"
+   last-author="lianxinzhong"
+   kind="file"
+   prop-time="2013-11-12T03:49:33.997668Z"/>
+<entry
+   committed-rev="19452"
+   name="dirty.gif"
+   text-time="2013-11-12T03:49:34.281684Z"
+   committed-date="2013-11-12T00:53:49.926592Z"
+   checksum="decca3b96e2c37cf6eb04ddb0d9f669b"
+   last-author="lianxinzhong"
+   kind="file"
+   prop-time="2013-11-12T03:49:34.010669Z"/>
+<entry
+   committed-rev="19452"
+   name="group-collapse.gif"
+   text-time="2013-11-12T03:49:34.287685Z"
+   committed-date="2013-11-12T00:53:49.926592Z"
+   checksum="fd6a72ffa784170d83f9f13322266ca8"
+   last-author="lianxinzhong"
+   kind="file"
+   prop-time="2013-11-12T03:49:34.014669Z"/>
+<entry
+   committed-rev="19452"
+   name="page-next-disabled.gif"
+   text-time="2013-11-12T03:49:34.299685Z"
+   committed-date="2013-11-12T00:53:49.926592Z"
+   checksum="0f4b8681772c91921fa93ede9c755ea0"
+   last-author="lianxinzhong"
+   kind="file"
+   prop-time="2013-11-12T03:49:34.022670Z"/>
+<entry
+   committed-rev="19452"
+   name="invalid_line.gif"
+   text-time="2013-11-12T03:49:34.293685Z"
+   committed-date="2013-11-12T00:53:49.926592Z"
+   checksum="04a88e97b56e8a8ece4a66d49cc78828"
+   last-author="lianxinzhong"
+   kind="file"
+   prop-time="2013-11-12T03:49:34.018669Z"/>
+<entry
+   committed-rev="19452"
+   name="pick-button.gif"
+   text-time="2013-11-12T03:49:34.307686Z"
+   committed-date="2013-11-12T00:53:49.926592Z"
+   checksum="b431fdf306f1e2f033d0a431996de93f"
+   last-author="lianxinzhong"
+   kind="file"
+   prop-time="2013-11-12T03:49:34.026670Z"/>
+<entry
+   committed-rev="19452"
+   name="nowait.gif"
+   text-time="2013-11-12T03:49:34.313686Z"
+   committed-date="2013-11-12T00:53:49.926592Z"
+   checksum="23c91166dbb16ba8655363321bf5a400"
+   last-author="lianxinzhong"
+   kind="file"
+   prop-time="2013-11-12T03:49:34.030670Z"/>
+<entry
+   committed-rev="19452"
+   name="drop-yes.gif"
+   text-time="2013-11-12T03:49:34.325687Z"
+   committed-date="2013-11-12T00:53:49.926592Z"
+   checksum="af96f4c3b32a470db2f38abb521b5c97"
+   last-author="lianxinzhong"
+   kind="file"
+   prop-time="2013-11-12T03:49:34.037671Z"/>
+<entry
+   committed-rev="19452"
+   name="hmenu-lock.gif"
+   text-time="2013-11-12T03:49:34.318687Z"
+   committed-date="2013-11-12T00:53:49.926592Z"
+   checksum="bcef18e25342c69c37c44dab87086065"
+   last-author="lianxinzhong"
+   kind="file"
+   prop-time="2013-11-12T03:49:34.034670Z"/>
+<entry
+   committed-rev="19452"
+   name="hmenu-unlock.gif"
+   text-time="2013-11-12T03:49:34.331687Z"
+   committed-date="2013-11-12T00:53:49.926592Z"
+   checksum="8cc8205dafa587ef02d8a86903ae8074"
+   last-author="lianxinzhong"
+   kind="file"
+   prop-time="2013-11-12T03:49:34.041671Z"/>
+<entry
+   committed-rev="19452"
+   name="page-first-disabled.gif"
+   text-time="2013-11-12T03:49:34.338688Z"
+   committed-date="2013-11-12T00:53:49.926592Z"
+   checksum="8d3185028c541cbcce67b5909c04824e"
+   last-author="lianxinzhong"
+   kind="file"
+   prop-time="2013-11-12T03:49:34.046671Z"/>
+<entry
+   committed-rev="19452"
+   name="page-last.gif"
+   text-time="2013-11-12T03:49:34.351688Z"
+   committed-date="2013-11-12T00:53:49.926592Z"
+   checksum="ef524dd0b8dfe4eefecffaa1c0bb8edd"
+   last-author="lianxinzhong"
+   kind="file"
+   prop-time="2013-11-12T03:49:34.055672Z"/>
+<entry
+   committed-rev="19452"
+   name="group-expand-sprite.gif"
+   text-time="2013-11-12T03:49:34.345688Z"
+   committed-date="2013-11-12T00:53:49.926592Z"
+   checksum="d0f614a387292177f3acb0c95a4cd760"
+   last-author="lianxinzhong"
+   kind="file"
+   prop-time="2013-11-12T03:49:34.050671Z"/>
+<entry
+   committed-rev="19452"
+   name="row-over.gif"
+   text-time="2013-11-12T03:49:34.357689Z"
+   committed-date="2013-11-12T00:53:49.926592Z"
+   checksum="f639094bd0560aefabc86e51a825f23d"
+   last-author="lianxinzhong"
+   kind="file"
+   prop-time="2013-11-12T03:49:34.059672Z"/>
+<entry
+   committed-rev="19452"
+   name="hmenu-asc.gif"
+   text-time="2013-11-12T03:49:34.363689Z"
+   committed-date="2013-11-12T00:53:49.926592Z"
+   checksum="048e0bc30f7c39d473dad5dabcbe03f2"
+   last-author="lianxinzhong"
+   kind="file"
+   prop-time="2013-11-12T03:49:34.063672Z"/>
+<entry
+   committed-rev="19452"
+   name="sort-hd.gif"
+   text-time="2013-11-12T03:49:34.370690Z"
+   committed-date="2013-11-12T00:53:49.926592Z"
+   checksum="2640addef6e987b4c5dfa4c8c2dfb10c"
+   last-author="lianxinzhong"
+   kind="file"
+   prop-time="2013-11-12T03:49:34.067672Z"/>
+<entry
+   committed-rev="19452"
+   name="col-move-top.gif"
+   text-time="2013-11-12T03:49:34.377690Z"
+   committed-date="2013-11-12T00:53:49.926592Z"
+   checksum="c4584202d5172464050f675d396d1c6f"
+   last-author="lianxinzhong"
+   kind="file"
+   prop-time="2013-11-12T03:49:34.071672Z"/>
+<entry
+   committed-rev="19452"
+   name="footer-bg.gif"
+   text-time="2013-11-12T03:49:34.383690Z"
+   committed-date="2013-11-12T00:53:49.926592Z"
+   checksum="65ed63e44c6149f1127ad3b4be4e0108"
+   last-author="lianxinzhong"
+   kind="file"
+   prop-time="2013-11-12T03:49:34.074673Z"/>
+<entry
+   committed-rev="19452"
+   name="done.gif"
+   text-time="2013-11-12T03:49:34.389691Z"
+   committed-date="2013-11-12T00:53:49.926592Z"
+   checksum="365266930a93451414fe51ffc524a196"
+   last-author="lianxinzhong"
+   kind="file"
+   prop-time="2013-11-12T03:49:34.078673Z"/>
+<entry
+   committed-rev="19452"
+   name="row-check-sprite.gif"
+   text-time="2013-11-12T03:49:34.396691Z"
+   committed-date="2013-11-12T00:53:49.926592Z"
+   checksum="2d0aa7e501c3e6f97a97faf75e35d3c3"
+   last-author="lianxinzhong"
+   kind="file"
+   prop-time="2013-11-12T03:49:34.082673Z"/>
+<entry
+   committed-rev="19452"
+   name="page-prev.gif"
+   text-time="2013-11-12T03:49:34.402691Z"
+   committed-date="2013-11-12T00:53:49.926592Z"
+   checksum="80daad880483eed682b22ec70514ecc4"
+   last-author="lianxinzhong"
+   kind="file"
+   prop-time="2013-11-12T03:49:34.086673Z"/>
+<entry
+   committed-rev="19452"
+   name="grid3-special-col-bg.gif"
+   text-time="2013-11-12T03:49:34.408692Z"
+   committed-date="2013-11-12T00:53:49.926592Z"
+   checksum="c9df03a1c107360128da89fa47066405"
+   last-author="lianxinzhong"
+   kind="file"
+   prop-time="2013-11-12T03:49:34.090674Z"/>
+<entry
+   committed-rev="19452"
+   name="row-sel.gif"
+   text-time="2013-11-12T03:49:34.414692Z"
+   committed-date="2013-11-12T00:53:49.926592Z"
+   checksum="ca87d6b950386edd5e17c985769d9101"
+   last-author="lianxinzhong"
+   kind="file"
+   prop-time="2013-11-12T03:49:34.094674Z"/>
+<entry
+   committed-rev="19452"
+   name="page-prev-disabled.gif"
+   text-time="2013-11-12T03:49:34.421692Z"
+   committed-date="2013-11-12T00:53:49.926592Z"
+   checksum="eefcbed15c8d37a89618b08f7b224297"
+   last-author="lianxinzhong"
+   kind="file"
+   prop-time="2013-11-12T03:49:34.097674Z"/>
+<entry
+   committed-rev="19452"
+   name="grid3-hrow-over.gif"
+   text-time="2013-11-12T03:49:34.428693Z"
+   committed-date="2013-11-12T00:53:49.926592Z"
+   checksum="a92d8f6c106943995720f2884634670e"
+   last-author="lianxinzhong"
+   kind="file"
+   prop-time="2013-11-12T03:49:34.101674Z"/>
+<entry
+   committed-rev="19452"
+   name="refresh.gif"
+   text-time="2013-11-12T03:49:34.436693Z"
+   committed-date="2013-11-12T00:53:49.926592Z"
+   checksum="a10daeb8247124529da4233bfaaf499b"
+   last-author="lianxinzhong"
+   kind="file"
+   prop-time="2013-11-12T03:49:34.107675Z"/>
+<entry
+   committed-rev="19452"
+   name="grid-loading.gif"
+   text-time="2013-11-12T03:49:34.442694Z"
+   committed-date="2013-11-12T00:53:49.926592Z"
+   checksum="9ac6f737eb9b15272f12b00bfeb3c3c6"
+   last-author="lianxinzhong"
+   kind="file"
+   prop-time="2013-11-12T03:49:34.112675Z"/>
+<entry
+   committed-rev="19452"
+   name="arrow-left-white.gif"
+   text-time="2013-11-12T03:49:34.449694Z"
+   committed-date="2013-11-12T00:53:49.926592Z"
+   checksum="b04e859bdcbd21ad1f06b8bfa7881df8"
+   last-author="lianxinzhong"
+   kind="file"
+   prop-time="2013-11-12T03:49:34.115675Z"/>
+<entry
+   committed-rev="19452"
+   name="page-first.gif"
+   text-time="2013-11-12T03:49:34.455694Z"
+   committed-date="2013-11-12T00:53:49.926592Z"
+   checksum="16ec00fa770d860b768cf5034ddfca96"
+   last-author="lianxinzhong"
+   kind="file"
+   prop-time="2013-11-12T03:49:34.119675Z"/>
+<entry
+   committed-rev="19452"
+   name="grid-hrow.gif"
+   text-time="2013-11-12T03:49:34.461695Z"
+   committed-date="2013-11-12T00:53:49.926592Z"
+   checksum="55972a5063d80f35fb6b95a79bb0018a"
+   last-author="lianxinzhong"
+   kind="file"
+   prop-time="2013-11-12T03:49:34.123675Z"/>
+<entry
+   committed-rev="19452"
+   name="grid-vista-hd.gif"
+   text-time="2013-11-12T03:49:34.467695Z"
+   committed-date="2013-11-12T00:53:49.926592Z"
+   checksum="675f403e8a9cb5ab4bed725da9fe2023"
+   last-author="lianxinzhong"
+   kind="file"
+   prop-time="2013-11-12T03:49:34.127676Z"/>
+<entry
+   committed-rev="19452"
+   name="refresh-disabled.gif"
+   text-time="2013-11-12T03:49:34.474696Z"
+   committed-date="2013-11-12T00:53:49.926592Z"
+   checksum="105c62973ba69710bc2b41b443af5198"
+   last-author="lianxinzhong"
+   kind="file"
+   prop-time="2013-11-12T03:49:34.130676Z"/>
+<entry
+   committed-rev="19452"
+   name="grid-blue-hd.gif"
+   text-time="2013-11-12T03:49:34.480696Z"
+   committed-date="2013-11-12T00:53:49.926592Z"
+   checksum="dd35d5c1202c440c2d1a945b335984d3"
+   last-author="lianxinzhong"
+   kind="file"
+   prop-time="2013-11-12T03:49:34.134676Z"/>
+<entry
+   committed-rev="19452"
+   name="grid-blue-split.gif"
+   text-time="2013-11-12T03:49:34.486696Z"
+   committed-date="2013-11-12T00:53:49.926592Z"
+   checksum="0494ba49974ff2bc1bf81e1d82dfee18"
+   last-author="lianxinzhong"
+   kind="file"
+   prop-time="2013-11-12T03:49:34.138676Z"/>
+<entry
+   committed-rev="19452"
+   name="wait.gif"
+   text-time="2013-11-12T03:49:34.493697Z"
+   committed-date="2013-11-12T00:53:49.926592Z"
+   checksum="b0cd5a5dc070c705ebf8814a909802c3"
+   last-author="lianxinzhong"
+   kind="file"
+   prop-time="2013-11-12T03:49:34.142677Z"/>
+<entry
+   committed-rev="19452"
+   name="group-by.gif"
+   text-time="2013-11-12T03:49:34.499697Z"
+   committed-date="2013-11-12T00:53:49.926592Z"
+   checksum="3ff8c5936e358cf213227509c9bee95a"
+   last-author="lianxinzhong"
+   kind="file"
+   prop-time="2013-11-12T03:49:34.146677Z"/>
+<entry
+   committed-rev="19452"
+   name="grid3-special-col-sel-bg.gif"
+   text-time="2013-11-12T03:49:34.505697Z"
+   committed-date="2013-11-12T00:53:49.926592Z"
+   checksum="a94039f89dec164896ceff1fbdf6dbc5"
+   last-author="lianxinzhong"
+   kind="file"
+   prop-time="2013-11-12T03:49:34.149677Z"/>
+<entry
+   committed-rev="19452"
+   name="group-expand.gif"
+   text-time="2013-11-12T03:49:34.571701Z"
+   committed-date="2013-11-12T00:53:49.926592Z"
+   checksum="8a9ad3ed3d74c2911b7f101268a1843b"
+   last-author="lianxinzhong"
+   kind="file"
+   prop-time="2013-11-12T03:49:34.154677Z"/>
+</wc-entries>

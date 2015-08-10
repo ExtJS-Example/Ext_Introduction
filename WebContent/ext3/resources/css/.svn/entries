@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="19452"
+   name=""
+   committed-date="2013-11-12T00:53:49.926592Z"
+   url="http://192.168.2.222/svn/magus/UI/2013/product/GUI/GUI/WebContent/ext3/resources/css"
+   last-author="lianxinzhong"
+   kind="dir"
+   uuid="4a24c695-217c-4848-abf9-7600eaa6d8bd"
+   repos="http://192.168.2.222/svn/magus"
+   revision="19671"/>
+<entry
+   committed-rev="19452"
+   name="ext-all.css"
+   text-time="2013-11-12T03:49:31.986553Z"
+   committed-date="2013-11-12T00:53:49.926592Z"
+   checksum="a76bc484756d60e4514690064d4bcff2"
+   last-author="lianxinzhong"
+   kind="file"
+   prop-time="2013-11-12T03:49:31.973552Z"/>
+</wc-entries>

@@ -1,0 +1,422 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="19452"
+   name=""
+   committed-date="2013-11-12T00:53:49.926592Z"
+   url="http://192.168.2.222/svn/magus/UI/2013/product/GUI/GUI/WebContent/ext3/ux"
+   last-author="lianxinzhong"
+   kind="dir"
+   uuid="4a24c695-217c-4848-abf9-7600eaa6d8bd"
+   repos="http://192.168.2.222/svn/magus"
+   revision="19671"/>
+<entry
+   committed-rev="19452"
+   name="DataView-more.js"
+   text-time="2013-11-12T03:49:28.464352Z"
+   committed-date="2013-11-12T00:53:49.926592Z"
+   checksum="bed121d56cba5170c03cedde6a04d0c9"
+   last-author="lianxinzhong"
+   kind="file"
+   prop-time="2013-11-12T03:49:27.088273Z"/>
+<entry
+   committed-rev="19452"
+   name="ProgressBarPager.js"
+   text-time="2013-11-12T03:49:28.471352Z"
+   committed-date="2013-11-12T00:53:49.926592Z"
+   checksum="db28d528e5c8bd81d213704458d35e8b"
+   last-author="lianxinzhong"
+   kind="file"
+   prop-time="2013-11-12T03:49:27.093273Z"/>
+<entry
+   committed-rev="19452"
+   name="SearchField.js"
+   text-time="2013-11-12T03:49:28.477352Z"
+   committed-date="2013-11-12T00:53:49.926592Z"
+   checksum="275fc305c360b12bbf227873e108707a"
+   last-author="lianxinzhong"
+   kind="file"
+   prop-time="2013-11-12T03:49:27.096273Z"/>
+<entry
+   committed-rev="19452"
+   name="FieldLabeler.js"
+   text-time="2013-11-12T03:49:28.484353Z"
+   committed-date="2013-11-12T00:53:49.926592Z"
+   checksum="9566f87d283f77b4fb21c3ea369fb247"
+   last-author="lianxinzhong"
+   kind="file"
+   prop-time="2013-11-12T03:49:27.100274Z"/>
+<entry
+   committed-rev="19452"
+   name="CenterLayout.js"
+   text-time="2013-11-12T03:49:28.490353Z"
+   committed-date="2013-11-12T00:53:49.926592Z"
+   checksum="48d4996c46da351f1d5e4b895ff7c7e4"
+   last-author="lianxinzhong"
+   kind="file"
+   prop-time="2013-11-12T03:49:27.104274Z"/>
+<entry
+   committed-rev="19452"
+   name="RowEditor.js"
+   text-time="2013-11-12T03:49:28.496354Z"
+   committed-date="2013-11-12T00:53:49.926592Z"
+   checksum="e1390ca1670a344a8d851a8c184347d7"
+   last-author="lianxinzhong"
+   kind="file"
+   prop-time="2013-11-12T03:49:27.110274Z"/>
+<entry
+   committed-rev="19452"
+   name="PortalColumn.js"
+   text-time="2013-11-12T03:49:28.503354Z"
+   committed-date="2013-11-12T00:53:49.926592Z"
+   checksum="ea10944de38a8c06c2979667a422e19a"
+   last-author="lianxinzhong"
+   kind="file"
+   prop-time="2013-11-12T03:49:27.113274Z"/>
+<entry
+   committed-rev="19452"
+   name="DataViewTransition.js"
+   text-time="2013-11-12T03:49:28.510354Z"
+   committed-date="2013-11-12T00:53:49.926592Z"
+   checksum="56efc1c56727f9d36f912f80b7fcf782"
+   last-author="lianxinzhong"
+   kind="file"
+   prop-time="2013-11-12T03:49:27.118275Z"/>
+<entry
+   committed-rev="19452"
+   name="Focus.js"
+   text-time="2013-11-12T03:49:28.517355Z"
+   committed-date="2013-11-12T00:53:49.926592Z"
+   checksum="215f5c6f79ca21417036901c27480791"
+   last-author="lianxinzhong"
+   kind="file"
+   prop-time="2013-11-12T03:49:27.140276Z"/>
+<entry
+   committed-rev="19452"
+   name="SpinnerField.js"
+   text-time="2013-11-12T03:49:28.524355Z"
+   committed-date="2013-11-12T00:53:49.926592Z"
+   checksum="9077b9b0b8759a102db223da30b293cc"
+   last-author="lianxinzhong"
+   kind="file"
+   prop-time="2013-11-12T03:49:27.144276Z"/>
+<entry
+   committed-rev="19452"
+   name="GroupTab.js"
+   text-time="2013-11-12T03:49:28.530356Z"
+   committed-date="2013-11-12T00:53:49.926592Z"
+   checksum="d13ddc2e02101a6ab8c8086752a55953"
+   last-author="lianxinzhong"
+   kind="file"
+   prop-time="2013-11-12T03:49:27.149277Z"/>
+<entry
+   committed-rev="19452"
+   name="ColumnHeaderGroup.js"
+   text-time="2013-11-12T03:49:28.537356Z"
+   committed-date="2013-11-12T00:53:49.926592Z"
+   checksum="20b19d956b35dca6764136d6313f9192"
+   last-author="lianxinzhong"
+   kind="file"
+   prop-time="2013-11-12T03:49:27.154277Z"/>
+<entry
+   committed-rev="19452"
+   name="ux-all-debug.js"
+   text-time="2013-11-12T03:49:28.547356Z"
+   committed-date="2013-11-12T00:53:49.926592Z"
+   checksum="6d716ea373ccf13cc889dbd9e8e11ea3"
+   last-author="lianxinzhong"
+   kind="file"
+   prop-time="2013-11-12T03:49:27.700308Z"/>
+<entry
+   committed-rev="19452"
+   name="LockingGridView.js"
+   text-time="2013-11-12T03:49:28.554357Z"
+   committed-date="2013-11-12T00:53:49.926592Z"
+   checksum="708a19e900916c357b71ed5df78c9f99"
+   last-author="lianxinzhong"
+   kind="file"
+   prop-time="2013-11-12T03:49:27.721309Z"/>
+<entry
+   committed-rev="19452"
+   name="SelectBox.js"
+   text-time="2013-11-12T03:49:28.560357Z"
+   committed-date="2013-11-12T00:53:49.926592Z"
+   checksum="985ae997465f7febc08ed41375fc5de3"
+   last-author="lianxinzhong"
+   kind="file"
+   prop-time="2013-11-12T03:49:27.729310Z"/>
+<entry
+   committed-rev="19452"
+   name="Reorderer.js"
+   text-time="2013-11-12T03:49:28.567358Z"
+   committed-date="2013-11-12T00:53:49.926592Z"
+   checksum="e974e46f0369df22aca17cd7aa21901a"
+   last-author="lianxinzhong"
+   kind="file"
+   prop-time="2013-11-12T03:49:27.734310Z"/>
+<entry
+   name="images"
+   kind="dir"/>
+<entry
+   name="statusbar"
+   kind="dir"/>
+<entry
+   committed-rev="19452"
+   name="TableGrid.js"
+   text-time="2013-11-12T03:49:28.573358Z"
+   committed-date="2013-11-12T00:53:49.926592Z"
+   checksum="dd2f88a2ab7116407c7a595770cdc4ab"
+   last-author="lianxinzhong"
+   kind="file"
+   prop-time="2013-11-12T03:49:28.292342Z"/>
+<entry
+   committed-rev="19452"
+   name="PagingMemoryProxy.js"
+   text-time="2013-11-12T03:49:28.580358Z"
+   committed-date="2013-11-12T00:53:49.926592Z"
+   checksum="455ab8f8cfcec799de69b84a8652df1b"
+   last-author="lianxinzhong"
+   kind="file"
+   prop-time="2013-11-12T03:49:28.296342Z"/>
+<entry
+   committed-rev="19452"
+   name="Portal.js"
+   text-time="2013-11-12T03:49:28.586359Z"
+   committed-date="2013-11-12T00:53:49.926592Z"
+   checksum="d9d63220bd9ecfed6088afd6c47e7560"
+   last-author="lianxinzhong"
+   kind="file"
+   prop-time="2013-11-12T03:49:28.300342Z"/>
+<entry
+   committed-rev="19452"
+   name="BufferView.js"
+   text-time="2013-11-12T03:49:28.308343Z"
+   committed-date="2013-11-12T00:53:49.926592Z"
+   checksum="40a47673dd83b0b3a28261ac084cbd53"
+   last-author="lianxinzhong"
+   kind="file"
+   prop-time="2013-11-12T03:49:22.200993Z"/>
+<entry
+   committed-rev="19452"
+   name="GMapPanel.js"
+   text-time="2013-11-12T03:49:28.314343Z"
+   committed-date="2013-11-12T00:53:49.926592Z"
+   checksum="137a47505f7b8ee12765862ab53c5edf"
+   last-author="lianxinzhong"
+   kind="file"
+   prop-time="2013-11-12T03:49:22.205994Z"/>
+<entry
+   committed-rev="19452"
+   name="RowLayout.js"
+   text-time="2013-11-12T03:49:28.321344Z"
+   committed-date="2013-11-12T00:53:49.926592Z"
+   checksum="dd78448072908987c3c1fb106f4794f2"
+   last-author="lianxinzhong"
+   kind="file"
+   prop-time="2013-11-12T03:49:22.209994Z"/>
+<entry
+   committed-rev="19452"
+   name="XmlTreeLoader.js"
+   text-time="2013-11-12T03:49:28.328344Z"
+   committed-date="2013-11-12T00:53:49.926592Z"
+   checksum="8f4893b609806f8e4b74c4344e829d99"
+   last-author="lianxinzhong"
+   kind="file"
+   prop-time="2013-11-12T03:49:22.214994Z"/>
+<entry
+   committed-rev="19452"
+   name="SlidingPager.js"
+   text-time="2013-11-12T03:49:28.334344Z"
+   committed-date="2013-11-12T00:53:49.926592Z"
+   checksum="bc8e9c6d2a317f8112ba4a74de22d16f"
+   last-author="lianxinzhong"
+   kind="file"
+   prop-time="2013-11-12T03:49:22.218995Z"/>
+<entry
+   committed-rev="19452"
+   name="FieldReplicator.js"
+   text-time="2013-11-12T03:49:28.340345Z"
+   committed-date="2013-11-12T00:53:49.926592Z"
+   checksum="24f06aa675c1f5cc0beb2d4ade82d2f0"
+   last-author="lianxinzhong"
+   kind="file"
+   prop-time="2013-11-12T03:49:22.222995Z"/>
+<entry
+   committed-rev="19452"
+   name="gridToExcel.js"
+   text-time="2013-11-12T03:49:28.347345Z"
+   committed-date="2013-11-12T00:53:49.926592Z"
+   checksum="59c3a0113906a273738ad21e1f38d4b0"
+   last-author="lianxinzhong"
+   kind="file"
+   prop-time="2013-11-12T03:49:22.227995Z"/>
+<entry
+   committed-rev="19452"
+   name="GroupSummary.js"
+   text-time="2013-11-12T03:49:28.353345Z"
+   committed-date="2013-11-12T00:53:49.926592Z"
+   checksum="4e375eefe1b67159c6c32e3f250de97b"
+   last-author="lianxinzhong"
+   kind="file"
+   prop-time="2013-11-12T03:49:23.204051Z"/>
+<entry
+   committed-rev="19452"
+   name="ToolbarReorderer.js"
+   text-time="2013-11-12T03:49:28.360346Z"
+   committed-date="2013-11-12T00:53:49.926592Z"
+   checksum="4a6b24e1f6b436e9fd52c215220d2b43"
+   last-author="lianxinzhong"
+   kind="file"
+   prop-time="2013-11-12T03:49:23.219052Z"/>
+<entry
+   committed-rev="19452"
+   name="Spotlight.js"
+   text-time="2013-11-12T03:49:28.366346Z"
+   committed-date="2013-11-12T00:53:49.926592Z"
+   checksum="9c943529f8b40cb67114cc0acc8c99ae"
+   last-author="lianxinzhong"
+   kind="file"
+   prop-time="2013-11-12T03:49:23.231052Z"/>
+<entry
+   name="css"
+   kind="dir"/>
+<entry
+   name="fileuploadfield"
+   kind="dir"/>
+<entry
+   committed-rev="19452"
+   name="Spinner.js"
+   text-time="2013-11-12T03:49:28.373347Z"
+   committed-date="2013-11-12T00:53:49.926592Z"
+   checksum="e159d592b8da87be0f0515bc6f37abac"
+   last-author="lianxinzhong"
+   kind="file"
+   prop-time="2013-11-12T03:49:23.448065Z"/>
+<entry
+   committed-rev="19452"
+   name="TabCloseMenu.js"
+   text-time="2013-11-12T03:49:28.379347Z"
+   committed-date="2013-11-12T00:53:49.926592Z"
+   checksum="135fc766d3cf4c8d2781597d43903a12"
+   last-author="lianxinzhong"
+   kind="file"
+   prop-time="2013-11-12T03:49:23.453065Z"/>
+<entry
+   committed-rev="19452"
+   name="PanelCollapsedTitle.js"
+   text-time="2013-11-12T03:49:28.385347Z"
+   committed-date="2013-11-12T00:53:49.926592Z"
+   checksum="35d05c5e7593a772f4937057ff214264"
+   last-author="lianxinzhong"
+   kind="file"
+   prop-time="2013-11-12T03:49:23.457065Z"/>
+<entry
+   committed-rev="19452"
+   name="Portlet.js"
+   text-time="2013-11-12T03:49:28.391348Z"
+   committed-date="2013-11-12T00:53:49.926592Z"
+   checksum="ab85a588c51d100ddf1bd1ef6c735931"
+   last-author="lianxinzhong"
+   kind="file"
+   prop-time="2013-11-12T03:49:23.461066Z"/>
+<entry
+   committed-rev="19452"
+   name="MultiSelect.js"
+   text-time="2013-11-12T03:49:28.398348Z"
+   committed-date="2013-11-12T00:53:49.926592Z"
+   checksum="c7e8f80abf1aeddd467df50fa41b830f"
+   last-author="lianxinzhong"
+   kind="file"
+   prop-time="2013-11-12T03:49:23.563071Z"/>
+<entry
+   name="treegrid"
+   kind="dir"/>
+<entry
+   committed-rev="19452"
+   name="ToolbarDroppable.js"
+   text-time="2013-11-12T03:49:28.412349Z"
+   committed-date="2013-11-12T00:53:49.926592Z"
+   checksum="969baeae3c0018c2e69f25c6a12014c9"
+   last-author="lianxinzhong"
+   kind="file"
+   prop-time="2013-11-12T03:49:23.571072Z"/>
+<entry
+   committed-rev="19452"
+   name="CheckColumn.js"
+   text-time="2013-11-12T03:49:28.404348Z"
+   committed-date="2013-11-12T00:53:49.926592Z"
+   checksum="e59f7a3b4157f0ccf29b36b6563d476d"
+   last-author="lianxinzhong"
+   kind="file"
+   prop-time="2013-11-12T03:49:23.566072Z"/>
+<entry
+   committed-rev="19452"
+   name="RowExpander.js"
+   text-time="2013-11-12T03:49:28.419349Z"
+   committed-date="2013-11-12T00:53:49.926592Z"
+   checksum="564546661e7c877a250537cf2275692f"
+   last-author="lianxinzhong"
+   kind="file"
+   prop-time="2013-11-12T03:49:26.107217Z"/>
+<entry
+   name="calendar"
+   kind="dir"/>
+<entry
+   committed-rev="19452"
+   name="ItemSelector.js"
+   text-time="2013-11-12T03:49:28.425350Z"
+   committed-date="2013-11-12T00:53:49.926592Z"
+   checksum="1b9eff7bd6b450dbe19a430811b62fe1"
+   last-author="lianxinzhong"
+   kind="file"
+   prop-time="2013-11-12T03:49:26.113217Z"/>
+<entry
+   committed-rev="19452"
+   name="ColumnNodeUI.js"
+   text-time="2013-11-12T03:49:28.438350Z"
+   committed-date="2013-11-12T00:53:49.926592Z"
+   checksum="7c622c881803992b7796dc37302555dc"
+   last-author="lianxinzhong"
+   kind="file"
+   prop-time="2013-11-12T03:49:26.121218Z"/>
+<entry
+   committed-rev="19452"
+   name="TabScrollerMenu.js"
+   text-time="2013-11-12T03:49:28.432350Z"
+   committed-date="2013-11-12T00:53:49.926592Z"
+   checksum="e29462dc7522558474980e9cac35403a"
+   last-author="lianxinzhong"
+   kind="file"
+   prop-time="2013-11-12T03:49:26.117217Z"/>
+<entry
+   committed-rev="19452"
+   name="ux-all.js"
+   text-time="2013-11-12T03:49:28.445351Z"
+   committed-date="2013-11-12T00:53:49.926592Z"
+   checksum="34a735bc6776411e942533173ac6d533"
+   last-author="lianxinzhong"
+   kind="file"
+   prop-time="2013-11-12T03:49:26.309228Z"/>
+<entry
+   committed-rev="19452"
+   name="PanelResizer.js"
+   text-time="2013-11-12T03:49:28.458351Z"
+   committed-date="2013-11-12T00:53:49.926592Z"
+   checksum="11f2f79a152ad24f26e3406642738fbe"
+   last-author="lianxinzhong"
+   kind="file"
+   prop-time="2013-11-12T03:49:26.331230Z"/>
+<entry
+   committed-rev="19452"
+   name="GroupTabPanel.js"
+   text-time="2013-11-12T03:49:28.452351Z"
+   committed-date="2013-11-12T00:53:49.926592Z"
+   checksum="860b152d1158c8bd1ff5c7001aa55a25"
+   last-author="lianxinzhong"
+   kind="file"
+   prop-time="2013-11-12T03:49:26.325229Z"/>
+<entry
+   name="gridfilters"
+   kind="dir"/>
+</wc-entries>

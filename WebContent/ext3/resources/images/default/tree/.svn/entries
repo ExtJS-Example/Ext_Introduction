@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="19452"
+   name=""
+   committed-date="2013-11-12T00:53:49.926592Z"
+   url="http://192.168.2.222/svn/magus/UI/2013/product/GUI/GUI/WebContent/ext3/resources/images/default/tree"
+   last-author="lianxinzhong"
+   kind="dir"
+   uuid="4a24c695-217c-4848-abf9-7600eaa6d8bd"
+   repos="http://192.168.2.222/svn/magus"
+   revision="19671"/>
+<entry
+   committed-rev="19452"
+   name="folder.gif"
+   text-time="2013-11-12T03:49:35.339745Z"
+   committed-date="2013-11-12T00:53:49.926592Z"
+   checksum="b7209740bb4a825a06beb8698d92c2b1"
+   last-author="lianxinzhong"
+   kind="file"
+   prop-time="2013-11-12T03:49:35.147734Z"/>
+<entry
+   committed-rev="19452"
+   name="elbow-end-minus-nl.gif"
+   text-time="2013-11-12T03:49:35.354746Z"
+   committed-date="2013-11-12T00:53:49.926592Z"
+   checksum="5e5bffba157eceee7989db95b919e4d5"
+   last-author="lianxinzhong"
+   kind="file"
+   prop-time="2013-11-12T03:49:35.184736Z"/>
+<entry
+   committed-rev="19452"
+   name="elbow-end.gif"
+   text-time="2013-11-12T03:49:35.347745Z"
+   committed-date="2013-11-12T00:53:49.926592Z"
+   checksum="345551384aa325189ba28a1c20f3405e"
+   last-author="lianxinzhong"
+   kind="file"
+   prop-time="2013-11-12T03:49:35.167735Z"/>
+<entry
+   committed-rev="19452"
+   name="drop-over.gif"
+   text-time="2013-11-12T03:49:35.373747Z"
+   committed-date="2013-11-12T00:53:49.926592Z"
+   checksum="d6b303cfa3de8784057d9d7e66cdaa86"
+   last-author="lianxinzhong"
+   kind="file"
+   prop-time="2013-11-12T03:49:35.196737Z"/>
+<entry
+   committed-rev="19452"
+   name="arrows.gif"
+   text-time="2013-11-12T03:49:35.366747Z"
+   committed-date="2013-11-12T00:53:49.926592Z"
+   checksum="ab65037de34763ce1b489e5c0f12185d"
+   last-author="lianxinzhong"
+   kind="file"
+   prop-time="2013-11-12T03:49:35.192737Z"/>
+<entry
+   committed-rev="19452"
+   name="loading.gif"
+   text-time="2013-11-12T03:49:35.360746Z"
+   committed-date="2013-11-12T00:53:49.926592Z"
+   checksum="00ef871b291bc03a497d608a5bd8ec99"
+   last-author="lianxinzhong"
+   kind="file"
+   prop-time="2013-11-12T03:49:35.188736Z"/>
+<entry
+   committed-rev="19452"
+   name="drop-no.gif"
+   text-time="2013-11-12T03:49:35.379747Z"
+   committed-date="2013-11-12T00:53:49.926592Z"
+   checksum="67f83ea04a2eb1c50614a96faf625f25"
+   last-author="lianxinzhong"
+   kind="file"
+   prop-time="2013-11-12T03:49:35.200737Z"/>
+<entry
+   committed-rev="19452"
+   name="drop-under.gif"
+   text-time="2013-11-12T03:49:35.385748Z"
+   committed-date="2013-11-12T00:53:49.926592Z"
+   checksum="55e5dbc9451cfa91423832260b0753aa"
+   last-author="lianxinzhong"
+   kind="file"
+   prop-time="2013-11-12T03:49:35.205737Z"/>
+<entry
+   committed-rev="19452"
+   name="elbow-plus.gif"
+   text-time="2013-11-12T03:49:35.391748Z"
+   committed-date="2013-11-12T00:53:49.926592Z"
+   checksum="945572d06a74b5f952251a86c595f2da"
+   last-author="lianxinzhong"
+   kind="file"
+   prop-time="2013-11-12T03:49:35.227739Z"/>
+<entry
+   committed-rev="19452"
+   name="drop-add.gif"
+   text-time="2013-11-12T03:49:35.397748Z"
+   committed-date="2013-11-12T00:53:49.926592Z"
+   checksum="95eb34ac70a1a3c95ef39ab826a89491"
+   last-author="lianxinzhong"
+   kind="file"
+   prop-time="2013-11-12T03:49:35.231739Z"/>
+<entry
+   committed-rev="19452"
+   name="drop-between.gif"
+   text-time="2013-11-12T03:49:35.404749Z"
+   committed-date="2013-11-12T00:53:49.926592Z"
+   checksum="edb544a0de58547d4a39c526e06e3c82"
+   last-author="lianxinzhong"
+   kind="file"
+   prop-time="2013-11-12T03:49:35.234739Z"/>
+<entry
+   committed-rev="19452"
+   name="elbow-line.gif"
+   text-time="2013-11-12T03:49:35.416749Z"
+   committed-date="2013-11-12T00:53:49.926592Z"
+   checksum="90e478158df476dc989a60daaafc87e6"
+   last-author="lianxinzhong"
+   kind="file"
+   prop-time="2013-11-12T03:49:35.242739Z"/>
+<entry
+   committed-rev="19452"
+   name="elbow-end-plus.gif"
+   text-time="2013-11-12T03:49:35.410749Z"
+   committed-date="2013-11-12T00:53:49.926592Z"
+   checksum="ec1482391363612d9e5f8c7087fddaba"
+   last-author="lianxinzhong"
+   kind="file"
+   prop-time="2013-11-12T03:49:35.239739Z"/>
+<entry
+   committed-rev="19452"
+   name="elbow-plus-nl.gif"
+   text-time="2013-11-12T03:49:35.422750Z"
+   committed-date="2013-11-12T00:53:49.926592Z"
+   checksum="f0f50c0dd3ee6dd4b11c1f245b36eb01"
+   last-author="lianxinzhong"
+   kind="file"
+   prop-time="2013-11-12T03:49:35.246740Z"/>
+<entry
+   committed-rev="19452"
+   name="elbow-minus.gif"
+   text-time="2013-11-12T03:49:35.428750Z"
+   committed-date="2013-11-12T00:53:49.926592Z"
+   checksum="71bb1bd44b1274c60d30dba1de472ed7"
+   last-author="lianxinzhong"
+   kind="file"
+   prop-time="2013-11-12T03:49:35.263741Z"/>
+<entry
+   committed-rev="19452"
+   name="s.gif"
+   text-time="2013-11-12T03:49:35.468752Z"
+   committed-date="2013-11-12T00:53:49.926592Z"
+   checksum="fc94fb0c3ed8a8f909dbc7630a0987ff"
+   last-author="lianxinzhong"
+   kind="file"
+   prop-time="2013-11-12T03:49:35.268741Z"/>
+<entry
+   committed-rev="19452"
+   name="drop-yes.gif"
+   text-time="2013-11-12T03:49:35.474753Z"
+   committed-date="2013-11-12T00:53:49.926592Z"
+   checksum="f3216326c00890259e84f1726dd1043f"
+   last-author="lianxinzhong"
+   kind="file"
+   prop-time="2013-11-12T03:49:35.284742Z"/>
+<entry
+   committed-rev="19452"
+   name="elbow-end-plus-nl.gif"
+   text-time="2013-11-12T03:49:35.481753Z"
+   committed-date="2013-11-12T00:53:49.926592Z"
+   checksum="f0f50c0dd3ee6dd4b11c1f245b36eb01"
+   last-author="lianxinzhong"
+   kind="file"
+   prop-time="2013-11-12T03:49:35.301743Z"/>
+<entry
+   committed-rev="19452"
+   name="elbow-end-minus.gif"
+   text-time="2013-11-12T03:49:35.487753Z"
+   committed-date="2013-11-12T00:53:49.926592Z"
+   checksum="a469f6a4394d797c2efeffc70409f6db"
+   last-author="lianxinzhong"
+   kind="file"
+   prop-time="2013-11-12T03:49:35.305743Z"/>
+<entry
+   committed-rev="19452"
+   name="leaf.gif"
+   text-time="2013-11-12T03:49:35.494754Z"
+   committed-date="2013-11-12T00:53:49.926592Z"
+   checksum="23757d6e353f343e3c7edfe28428f198"
+   last-author="lianxinzhong"
+   kind="file"
+   prop-time="2013-11-12T03:49:35.312743Z"/>
+<entry
+   committed-rev="19452"
+   name="elbow-minus-nl.gif"
+   text-time="2013-11-12T03:49:35.500754Z"
+   committed-date="2013-11-12T00:53:49.926592Z"
+   checksum="5e5bffba157eceee7989db95b919e4d5"
+   last-author="lianxinzhong"
+   kind="file"
+   prop-time="2013-11-12T03:49:35.323744Z"/>
+<entry
+   committed-rev="19452"
+   name="elbow.gif"
+   text-time="2013-11-12T03:49:35.505754Z"
+   committed-date="2013-11-12T00:53:49.926592Z"
+   checksum="27679f3b1222ba95d9925885d7d82d02"
+   last-author="lianxinzhong"
+   kind="file"
+   prop-time="2013-11-12T03:49:35.327744Z"/>
+<entry
+   committed-rev="19452"
+   name="folder-open.gif"
+   text-time="2013-11-12T03:49:35.333745Z"
+   committed-date="2013-11-12T00:53:49.926592Z"
+   checksum="c569141d6ae7c61d838ed8af26aa9380"
+   last-author="lianxinzhong"
+   kind="file"
+   prop-time="2013-11-12T03:49:35.142734Z"/>
+</wc-entries>

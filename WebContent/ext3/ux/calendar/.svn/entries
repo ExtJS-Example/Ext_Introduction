@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="19452"
+   name=""
+   committed-date="2013-11-12T00:53:49.926592Z"
+   url="http://192.168.2.222/svn/magus/UI/2013/product/GUI/GUI/WebContent/ext3/ux/calendar"
+   last-author="lianxinzhong"
+   kind="dir"
+   uuid="4a24c695-217c-4848-abf9-7600eaa6d8bd"
+   repos="http://192.168.2.222/svn/magus"
+   revision="19671"/>
+<entry
+   name="app"
+   kind="dir"/>
+<entry
+   name="src"
+   kind="dir"/>
+<entry
+   name="resources"
+   kind="dir"/>
+<entry
+   committed-rev="19452"
+   name="calendar-all.js"
+   text-time="2013-11-12T03:49:26.079215Z"
+   committed-date="2013-11-12T00:53:49.926592Z"
+   checksum="31ba14fcdb3dd60d248cccdd5394ca9d"
+   last-author="lianxinzhong"
+   kind="file"
+   prop-time="2013-11-12T03:49:25.634190Z"/>
+<entry
+   committed-rev="19452"
+   name="index.html"
+   text-time="2013-11-12T03:49:26.086216Z"
+   committed-date="2013-11-12T00:53:49.926592Z"
+   checksum="32b70e85d1a9dbcaabd99ea33a3d56f4"
+   last-author="lianxinzhong"
+   kind="file"
+   prop-time="2013-11-12T03:49:25.639190Z"/>
+<entry
+   committed-rev="19452"
+   name="calendar-all-debug.js"
+   text-time="2013-11-12T03:49:26.094216Z"
+   committed-date="2013-11-12T00:53:49.926592Z"
+   checksum="f420e9f06e63b78b396c7e73fd46f1d1"
+   last-author="lianxinzhong"
+   kind="file"
+   prop-time="2013-11-12T03:49:25.988210Z"/>
+</wc-entries>

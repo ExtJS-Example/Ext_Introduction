@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="19452"
+   name=""
+   committed-date="2013-11-12T00:53:49.926592Z"
+   url="http://192.168.2.222/svn/magus/UI/2013/product/GUI/GUI/WebContent/ext3/resources/images/default/box"
+   last-author="lianxinzhong"
+   kind="dir"
+   uuid="4a24c695-217c-4848-abf9-7600eaa6d8bd"
+   repos="http://192.168.2.222/svn/magus"
+   revision="19671"/>
+<entry
+   committed-rev="19452"
+   name="corners.gif"
+   text-time="2013-11-12T03:49:34.772713Z"
+   committed-date="2013-11-12T00:53:49.926592Z"
+   checksum="d2d1bc2085b369ce35ffd20c0121676e"
+   last-author="lianxinzhong"
+   kind="file"
+   prop-time="2013-11-12T03:49:34.725710Z"/>
+<entry
+   committed-rev="19452"
+   name="l.gif"
+   text-time="2013-11-12T03:49:34.778713Z"
+   committed-date="2013-11-12T00:53:49.926592Z"
+   checksum="c4d9dbbdc59ae06b5e9e72a6a865c981"
+   last-author="lianxinzhong"
+   kind="file"
+   prop-time="2013-11-12T03:49:34.728710Z"/>
+<entry
+   committed-rev="19452"
+   name="corners-blue.gif"
+   text-time="2013-11-12T03:49:34.734710Z"
+   committed-date="2013-11-12T00:53:49.926592Z"
+   checksum="86fd4c5664e0971bfc11959e8442604c"
+   last-author="lianxinzhong"
+   kind="file"
+   prop-time="2013-11-12T03:49:34.701708Z"/>
+<entry
+   committed-rev="19452"
+   name="l-blue.gif"
+   text-time="2013-11-12T03:49:34.740711Z"
+   committed-date="2013-11-12T00:53:49.926592Z"
+   checksum="ced9ffbf66ea39e77083a591f8257267"
+   last-author="lianxinzhong"
+   kind="file"
+   prop-time="2013-11-12T03:49:34.705709Z"/>
+<entry
+   committed-rev="19452"
+   name="r.gif"
+   text-time="2013-11-12T03:49:34.747711Z"
+   committed-date="2013-11-12T00:53:49.926592Z"
+   checksum="bf1e1d4a45f951ae656968a8c834f04a"
+   last-author="lianxinzhong"
+   kind="file"
+   prop-time="2013-11-12T03:49:34.709709Z"/>
+<entry
+   committed-rev="19452"
+   name="tb.gif"
+   text-time="2013-11-12T03:49:34.754712Z"
+   committed-date="2013-11-12T00:53:49.926592Z"
+   checksum="dd3f63afe7ba90983ba73dad1c66bf2f"
+   last-author="lianxinzhong"
+   kind="file"
+   prop-time="2013-11-12T03:49:34.713709Z"/>
+<entry
+   committed-rev="19452"
+   name="r-blue.gif"
+   text-time="2013-11-12T03:49:34.760712Z"
+   committed-date="2013-11-12T00:53:49.926592Z"
+   checksum="82dbb522a80e3246f6297719371a9494"
+   last-author="lianxinzhong"
+   kind="file"
+   prop-time="2013-11-12T03:49:34.717709Z"/>
+<entry
+   committed-rev="19452"
+   name="tb-blue.gif"
+   text-time="2013-11-12T03:49:34.766712Z"
+   committed-date="2013-11-12T00:53:49.926592Z"
+   checksum="7c4b19eb682afdc1bde0640d2321fb25"
+   last-author="lianxinzhong"
+   kind="file"
+   prop-time="2013-11-12T03:49:34.721710Z"/>
+</wc-entries>

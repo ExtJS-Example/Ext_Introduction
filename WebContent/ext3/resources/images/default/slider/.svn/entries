@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="19452"
+   name=""
+   committed-date="2013-11-12T00:53:49.926592Z"
+   url="http://192.168.2.222/svn/magus/UI/2013/product/GUI/GUI/WebContent/ext3/resources/images/default/slider"
+   last-author="lianxinzhong"
+   kind="dir"
+   uuid="4a24c695-217c-4848-abf9-7600eaa6d8bd"
+   repos="http://192.168.2.222/svn/magus"
+   revision="19671"/>
+<entry
+   committed-rev="19452"
+   name="slider-thumb.png"
+   text-time="2013-11-12T03:49:33.898663Z"
+   committed-date="2013-11-12T00:53:49.926592Z"
+   checksum="24a893c9606f3a6892eb62f29a08870c"
+   last-author="lianxinzhong"
+   kind="file"
+   prop-time="2013-11-12T03:49:33.874661Z"/>
+<entry
+   committed-rev="19452"
+   name="slider-v-thumb.png"
+   text-time="2013-11-12T03:49:33.904663Z"
+   committed-date="2013-11-12T00:53:49.926592Z"
+   checksum="2fc3430dc351d9a118e048b9aafb7c3c"
+   last-author="lianxinzhong"
+   kind="file"
+   prop-time="2013-11-12T03:49:33.878661Z"/>
+<entry
+   committed-rev="19452"
+   name="slider-bg.png"
+   text-time="2013-11-12T03:49:33.884662Z"
+   committed-date="2013-11-12T00:53:49.926592Z"
+   checksum="0903ad3af985419767a60a5b025e0a18"
+   last-author="lianxinzhong"
+   kind="file"
+   prop-time="2013-11-12T03:49:33.866661Z"/>
+<entry
+   committed-rev="19452"
+   name="slider-v-bg.png"
+   text-time="2013-11-12T03:49:33.890662Z"
+   committed-date="2013-11-12T00:53:49.926592Z"
+   checksum="0682c28925a7296730f7f221e4a76b96"
+   last-author="lianxinzhong"
+   kind="file"
+   prop-time="2013-11-12T03:49:33.870661Z"/>
+</wc-entries>

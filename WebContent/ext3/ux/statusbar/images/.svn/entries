@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="19452"
+   name=""
+   committed-date="2013-11-12T00:53:49.926592Z"
+   url="http://192.168.2.222/svn/magus/UI/2013/product/GUI/GUI/WebContent/ext3/ux/statusbar/images"
+   last-author="lianxinzhong"
+   kind="dir"
+   uuid="4a24c695-217c-4848-abf9-7600eaa6d8bd"
+   repos="http://192.168.2.222/svn/magus"
+   revision="19671"/>
+<entry
+   committed-rev="19452"
+   name="loading.gif"
+   text-time="2013-11-12T03:49:28.206337Z"
+   committed-date="2013-11-12T00:53:49.926592Z"
+   checksum="00ef871b291bc03a497d608a5bd8ec99"
+   last-author="lianxinzhong"
+   kind="file"
+   prop-time="2013-11-12T03:49:28.183336Z"/>
+<entry
+   committed-rev="19452"
+   name="accept.png"
+   text-time="2013-11-12T03:49:28.212337Z"
+   committed-date="2013-11-12T00:53:49.926592Z"
+   checksum="8bfed48756f192ed7afe6eaa4799aae4"
+   last-author="lianxinzhong"
+   kind="file"
+   prop-time="2013-11-12T03:49:28.188336Z"/>
+<entry
+   committed-rev="19452"
+   name="saved.png"
+   text-time="2013-11-12T03:49:28.219338Z"
+   committed-date="2013-11-12T00:53:49.926592Z"
+   checksum="c9b528b9541e127967eda62f79118ef0"
+   last-author="lianxinzhong"
+   kind="file"
+   prop-time="2013-11-12T03:49:28.192336Z"/>
+<entry
+   committed-rev="19452"
+   name="exclamation.gif"
+   text-time="2013-11-12T03:49:28.226338Z"
+   committed-date="2013-11-12T00:53:49.926592Z"
+   checksum="37dbe02e3cbde0f6780650bfd8535e38"
+   last-author="lianxinzhong"
+   kind="file"
+   prop-time="2013-11-12T03:49:28.196336Z"/>
+<entry
+   committed-rev="19452"
+   name="saving.gif"
+   text-time="2013-11-12T03:49:28.232338Z"
+   committed-date="2013-11-12T00:53:49.926592Z"
+   checksum="ab38acb4e7bd7f805eea06948aaada12"
+   last-author="lianxinzhong"
+   kind="file"
+   prop-time="2013-11-12T03:49:28.200337Z"/>
+</wc-entries>

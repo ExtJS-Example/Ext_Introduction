@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="19452"
+   name=""
+   committed-date="2013-11-12T00:53:49.926592Z"
+   url="http://192.168.2.222/svn/magus/UI/2013/product/GUI/GUI/WebContent/ext3/theboboy"
+   last-author="lianxinzhong"
+   kind="dir"
+   uuid="4a24c695-217c-4848-abf9-7600eaa6d8bd"
+   repos="http://192.168.2.222/svn/magus"
+   revision="19671"/>
+<entry
+   committed-rev="19452"
+   name="Ext.ux.grid.RowActions.js"
+   text-time="2013-11-12T03:49:37.560872Z"
+   committed-date="2013-11-12T00:53:49.926592Z"
+   checksum="d924da0ea640c4564f422062abfca30a"
+   last-author="lianxinzhong"
+   kind="file"
+   prop-time="2013-11-12T03:49:37.541871Z"/>
+<entry
+   committed-rev="19452"
+   name="Struts2TreeLoader.js"
+   text-time="2013-11-12T03:49:37.567872Z"
+   committed-date="2013-11-12T00:53:49.926592Z"
+   checksum="89c9bc8dc84a4c661710f8dda2797b7d"
+   last-author="lianxinzhong"
+   kind="file"
+   prop-time="2013-11-12T03:49:37.546871Z"/>
+<entry
+   committed-rev="19452"
+   name="Ext.ux.grid.RowActions.css"
+   text-time="2013-11-12T03:49:37.553872Z"
+   committed-date="2013-11-12T00:53:49.926592Z"
+   checksum="3c0e9776b1fddd73a49a7fd8030c3fec"
+   last-author="lianxinzhong"
+   kind="file"
+   prop-time="2013-11-12T03:49:37.536871Z"/>
+</wc-entries>

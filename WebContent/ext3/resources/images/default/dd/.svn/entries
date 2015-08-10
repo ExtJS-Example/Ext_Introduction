@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="19452"
+   name=""
+   committed-date="2013-11-12T00:53:49.926592Z"
+   url="http://192.168.2.222/svn/magus/UI/2013/product/GUI/GUI/WebContent/ext3/resources/images/default/dd"
+   last-author="lianxinzhong"
+   kind="dir"
+   uuid="4a24c695-217c-4848-abf9-7600eaa6d8bd"
+   repos="http://192.168.2.222/svn/magus"
+   revision="19671"/>
+<entry
+   committed-rev="19452"
+   name="drop-no.gif"
+   text-time="2013-11-12T03:49:34.667707Z"
+   committed-date="2013-11-12T00:53:49.926592Z"
+   checksum="ae536c37391ba78143b5c8283cec8d13"
+   last-author="lianxinzhong"
+   kind="file"
+   prop-time="2013-11-12T03:49:34.651706Z"/>
+<entry
+   committed-rev="19452"
+   name="drop-yes.gif"
+   text-time="2013-11-12T03:49:34.674707Z"
+   committed-date="2013-11-12T00:53:49.926592Z"
+   checksum="f3216326c00890259e84f1726dd1043f"
+   last-author="lianxinzhong"
+   kind="file"
+   prop-time="2013-11-12T03:49:34.655706Z"/>
+<entry
+   committed-rev="19452"
+   name="drop-add.gif"
+   text-time="2013-11-12T03:49:34.662706Z"
+   committed-date="2013-11-12T00:53:49.926592Z"
+   checksum="95eb34ac70a1a3c95ef39ab826a89491"
+   last-author="lianxinzhong"
+   kind="file"
+   prop-time="2013-11-12T03:49:34.647705Z"/>
+</wc-entries>

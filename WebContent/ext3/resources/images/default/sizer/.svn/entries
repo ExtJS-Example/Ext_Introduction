@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="19452"
+   name=""
+   committed-date="2013-11-12T00:53:49.926592Z"
+   url="http://192.168.2.222/svn/magus/UI/2013/product/GUI/GUI/WebContent/ext3/resources/images/default/sizer"
+   last-author="lianxinzhong"
+   kind="dir"
+   uuid="4a24c695-217c-4848-abf9-7600eaa6d8bd"
+   repos="http://192.168.2.222/svn/magus"
+   revision="19671"/>
+<entry
+   committed-rev="19452"
+   name="ne-handle.gif"
+   text-time="2013-11-12T03:49:35.051729Z"
+   committed-date="2013-11-12T00:53:49.926592Z"
+   checksum="8e268b962dc909d275997b572ff17a72"
+   last-author="lianxinzhong"
+   kind="file"
+   prop-time="2013-11-12T03:49:34.991725Z"/>
+<entry
+   committed-rev="19452"
+   name="s-handle.gif"
+   text-time="2013-11-12T03:49:35.058729Z"
+   committed-date="2013-11-12T00:53:49.926592Z"
+   checksum="5e3338cb09e9df7f52383d6b1423fc86"
+   last-author="lianxinzhong"
+   kind="file"
+   prop-time="2013-11-12T03:49:34.995725Z"/>
+<entry
+   committed-rev="19452"
+   name="e-handle-dark.gif"
+   text-time="2013-11-12T03:49:35.065729Z"
+   committed-date="2013-11-12T00:53:49.926592Z"
+   checksum="b86289f41d7ad1a7401dd2b2a9b3c3d8"
+   last-author="lianxinzhong"
+   kind="file"
+   prop-time="2013-11-12T03:49:34.999726Z"/>
+<entry
+   committed-rev="19452"
+   name="nw-handle-dark.gif"
+   text-time="2013-11-12T03:49:35.071730Z"
+   committed-date="2013-11-12T00:53:49.926592Z"
+   checksum="4a361e6920b2e34a39fd425a515c83b9"
+   last-author="lianxinzhong"
+   kind="file"
+   prop-time="2013-11-12T03:49:35.002726Z"/>
+<entry
+   committed-rev="19452"
+   name="e-handle.gif"
+   text-time="2013-11-12T03:49:35.078730Z"
+   committed-date="2013-11-12T00:53:49.926592Z"
+   checksum="510edc95ebaa36306916c50ca10596f7"
+   last-author="lianxinzhong"
+   kind="file"
+   prop-time="2013-11-12T03:49:35.007726Z"/>
+<entry
+   committed-rev="19452"
+   name="nw-handle.gif"
+   text-time="2013-11-12T03:49:35.084730Z"
+   committed-date="2013-11-12T00:53:49.926592Z"
+   checksum="1120600505249c38c3d1cc2ab120cd13"
+   last-author="lianxinzhong"
+   kind="file"
+   prop-time="2013-11-12T03:49:35.011726Z"/>
+<entry
+   committed-rev="19452"
+   name="se-handle-dark.gif"
+   text-time="2013-11-12T03:49:35.090731Z"
+   committed-date="2013-11-12T00:53:49.926592Z"
+   checksum="f3d8d8aac23e3e9633072e2366cda847"
+   last-author="lianxinzhong"
+   kind="file"
+   prop-time="2013-11-12T03:49:35.015726Z"/>
+<entry
+   committed-rev="19452"
+   name="se-handle.gif"
+   text-time="2013-11-12T03:49:35.097731Z"
+   committed-date="2013-11-12T00:53:49.926592Z"
+   checksum="71edc3f63f79f447d2c81ee09e1fbbc3"
+   last-author="lianxinzhong"
+   kind="file"
+   prop-time="2013-11-12T03:49:35.018727Z"/>
+<entry
+   committed-rev="19452"
+   name="square.gif"
+   text-time="2013-11-12T03:49:35.103731Z"
+   committed-date="2013-11-12T00:53:49.926592Z"
+   checksum="4431ea1954bfd2a9cea0931f07fc7ffa"
+   last-author="lianxinzhong"
+   kind="file"
+   prop-time="2013-11-12T03:49:35.023727Z"/>
+<entry
+   committed-rev="19452"
+   name="sw-handle-dark.gif"
+   text-time="2013-11-12T03:49:35.109732Z"
+   committed-date="2013-11-12T00:53:49.926592Z"
+   checksum="44b2400d873cf8a23d84424827cde44d"
+   last-author="lianxinzhong"
+   kind="file"
+   prop-time="2013-11-12T03:49:35.026727Z"/>
+<entry
+   committed-rev="19452"
+   name="sw-handle.gif"
+   text-time="2013-11-12T03:49:35.115732Z"
+   committed-date="2013-11-12T00:53:49.926592Z"
+   checksum="c3e0befc4208a51180344765fd7deeda"
+   last-author="lianxinzhong"
+   kind="file"
+   prop-time="2013-11-12T03:49:35.030727Z"/>
+<entry
+   committed-rev="19452"
+   name="ne-handle-dark.gif"
+   text-time="2013-11-12T03:49:35.037728Z"
+   committed-date="2013-11-12T00:53:49.926592Z"
+   checksum="115f71b851c7f0b5f354caa7b8dfff15"
+   last-author="lianxinzhong"
+   kind="file"
+   prop-time="2013-11-12T03:49:34.981725Z"/>
+<entry
+   committed-rev="19452"
+   name="s-handle-dark.gif"
+   text-time="2013-11-12T03:49:35.043728Z"
+   committed-date="2013-11-12T00:53:49.926592Z"
+   checksum="4a6bf15d308a4ae580dd03cbd431a95c"
+   last-author="lianxinzhong"
+   kind="file"
+   prop-time="2013-11-12T03:49:34.984725Z"/>
+</wc-entries>

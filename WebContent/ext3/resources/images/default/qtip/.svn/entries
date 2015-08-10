@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="19452"
+   name=""
+   committed-date="2013-11-12T00:53:49.926592Z"
+   url="http://192.168.2.222/svn/magus/UI/2013/product/GUI/GUI/WebContent/ext3/resources/images/default/qtip"
+   last-author="lianxinzhong"
+   kind="dir"
+   uuid="4a24c695-217c-4848-abf9-7600eaa6d8bd"
+   repos="http://192.168.2.222/svn/magus"
+   revision="19671"/>
+<entry
+   committed-rev="19452"
+   name="tip-sprite.gif"
+   text-time="2013-11-12T03:49:33.628647Z"
+   committed-date="2013-11-12T00:53:49.926592Z"
+   checksum="090b2d83952e682fab43b2ab16be2991"
+   last-author="lianxinzhong"
+   kind="file"
+   prop-time="2013-11-12T03:49:33.605646Z"/>
+<entry
+   committed-rev="19452"
+   name="close.gif"
+   text-time="2013-11-12T03:49:33.634647Z"
+   committed-date="2013-11-12T00:53:49.926592Z"
+   checksum="0379d036250096cae2e42b427b3df2e7"
+   last-author="lianxinzhong"
+   kind="file"
+   prop-time="2013-11-12T03:49:33.609646Z"/>
+<entry
+   committed-rev="19452"
+   name="bg.gif"
+   text-time="2013-11-12T03:49:33.642648Z"
+   committed-date="2013-11-12T00:53:49.926592Z"
+   checksum="49c0a530cc16357bb39d51c13065a88f"
+   last-author="lianxinzhong"
+   kind="file"
+   prop-time="2013-11-12T03:49:33.615646Z"/>
+<entry
+   committed-rev="19452"
+   name="tip-anchor-sprite.gif"
+   text-time="2013-11-12T03:49:33.649648Z"
+   committed-date="2013-11-12T00:53:49.926592Z"
+   checksum="f39bc3283b69431ce6e7aed2fe6882b9"
+   last-author="lianxinzhong"
+   kind="file"
+   prop-time="2013-11-12T03:49:33.622647Z"/>
+</wc-entries>

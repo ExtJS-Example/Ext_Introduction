@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="19452"
+   name=""
+   committed-date="2013-11-12T00:53:49.926592Z"
+   url="http://192.168.2.222/svn/magus/UI/2013/product/GUI/GUI/WebContent/ext3/ux/calendar/src/widgets"
+   last-author="lianxinzhong"
+   kind="dir"
+   uuid="4a24c695-217c-4848-abf9-7600eaa6d8bd"
+   repos="http://192.168.2.222/svn/magus"
+   revision="19671"/>
+<entry
+   committed-rev="19452"
+   name="CalendarPicker.js"
+   text-time="2013-11-12T03:49:24.460123Z"
+   committed-date="2013-11-12T00:53:49.926592Z"
+   checksum="7fd8f277d79ab53b142b51b3c25a2c42"
+   last-author="lianxinzhong"
+   kind="file"
+   prop-time="2013-11-12T03:49:24.444122Z"/>
+<entry
+   committed-rev="19452"
+   name="ReminderField.js"
+   text-time="2013-11-12T03:49:24.466123Z"
+   committed-date="2013-11-12T00:53:49.926592Z"
+   checksum="0caaf04f5e5aa634f55889a107985db9"
+   last-author="lianxinzhong"
+   kind="file"
+   prop-time="2013-11-12T03:49:24.448122Z"/>
+<entry
+   committed-rev="19452"
+   name="DateRangeField.js"
+   text-time="2013-11-12T03:49:24.474124Z"
+   committed-date="2013-11-12T00:53:49.926592Z"
+   checksum="3fc4205242018202ff6d4c668977bbcd"
+   last-author="lianxinzhong"
+   kind="file"
+   prop-time="2013-11-12T03:49:24.453122Z"/>
+</wc-entries>
